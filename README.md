@@ -10,7 +10,7 @@
 	
 ## June 7, 2018
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-	* Presenter: Hongming
+	* Presenter: Hongming [[slides](slides/2018-06-07_Hongming_LSTM.pdf)]
 * [NIPS 2016 Tutorial: Generative Adversarial Networks - Part II](https://arxiv.org/abs/1701.00160)
 	* Presenter: Grant
 
