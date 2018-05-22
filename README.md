@@ -17,7 +17,7 @@
 ## June 14, 2018
 * [Show and Tell: Lessons Learned from the 2015 MSCOCO Image Captioning Challenge](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636&tag=1)
 	* Presenter: Hongming
-* TBD
+* [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://www.cise.ufl.edu/~zizhao/mdnet.html)
 	* Presenter: Qingsong
 	
 ## June 21, 2018
