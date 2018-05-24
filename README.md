@@ -4,9 +4,9 @@
 
 ## May 24, 2018
 * [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
-	* Presenter: Qing
+	* Presenter: Qing [[slides](slides/2018-05-24_Qing_DRL.pdf)]
 * [NIPS 2016 Tutorial: Generative Adversarial Networks - Part I](https://arxiv.org/abs/1701.00160)
-	* Presenter: Grant
+	* Presenter: Grant [[slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf)]
 	
 ## June 7, 2018
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
