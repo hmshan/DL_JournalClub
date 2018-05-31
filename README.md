@@ -8,7 +8,8 @@
 * [NIPS 2016 Tutorial: Generative Adversarial Networks - Part I](https://arxiv.org/abs/1701.00160)
 	* Presenter: Grant [[slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf)]
 	
-## June 7, 2018
+## June 7, 2018 
+#### * Location: 3rd Floor Oxbridge Room.
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 	* Presenter: Hongming [[slides](slides/2018-06-07_Hongming_LSTM.pdf)]
 * [NIPS 2016 Tutorial: Generative Adversarial Networks - Part II](https://arxiv.org/abs/1701.00160)
