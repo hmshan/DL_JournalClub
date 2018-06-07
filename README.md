@@ -2,12 +2,6 @@
 * Location: 4th Floor Oxbridge Room
 * Time: Thursday, 15:30 -- 16:30
 
-## May 24, 2018
-* [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
-	* Presenter: Qing [[slides](slides/2018-05-24_Qing_DRL.pdf)]
-* [NIPS 2016 Tutorial: Generative Adversarial Networks - Part I](https://arxiv.org/abs/1701.00160)
-	* Presenter: Grant [[slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf)]
-	
 ## June 7, 2018 
 #### * Location: 3rd Floor Oxbridge Room.
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -26,3 +20,12 @@
 	* Presenter: Yuanyuan
 * TBD
 	* Presenter: Lars
+
+# Past Club Meetings
+
+## May 24, 2018
+* [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
+	* Presenter: Qing [[slides](slides/2018-05-24_Qing_DRL.pdf)]
+* [NIPS 2016 Tutorial: Generative Adversarial Networks - Part I](https://arxiv.org/abs/1701.00160)
+	* Presenter: Grant [[slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf)]
+	
