@@ -2,22 +2,20 @@
 * Location: 4th Floor Oxbridge Room
 * Time: Thursday, 15:30 -- 16:30
 
-## June 7, 2018 
-#### * Location: 3rd Floor Oxbridge Room.
-* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-	* Presenter: Hongming [[slides](slides/2018-06-07_Hongming_LSTM.pdf)]
-* [NIPS 2016 Tutorial: Generative Adversarial Networks - Part II](https://arxiv.org/abs/1701.00160)
-	* Presenter: Grant
-
 ## June 14, 2018
 * [Show and Tell: Lessons Learned from the 2015 MSCOCO Image Captioning Challenge](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636&tag=1)
 	* Presenter: Hongming
-* [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://www.cise.ufl.edu/~zizhao/mdnet.html)
-	* Presenter: Qingsong
+* [NIPS 2016 Tutorial: Generative Adversarial Networks - Part III](https://arxiv.org/abs/1701.00160)
+	* Presenter: Grant
 	
 ## June 21, 2018
+
+* [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://www.cise.ufl.edu/~zizhao/mdnet.html)
+	* Presenter: Qingsong
 * TBD
 	* Presenter: Yuanyuan
+
+## June 28, 2018
 * TBD
 	* Presenter: Lars
 
@@ -29,3 +27,9 @@
 * [NIPS 2016 Tutorial: Generative Adversarial Networks - Part I](https://arxiv.org/abs/1701.00160)
 	* Presenter: Grant [[slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf)]
 	
+## June 7, 2018 
+
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+	* Presenter: Hongming [[slides](slides/2018-06-07_Hongming_LSTM.pdf)]
+* [NIPS 2016 Tutorial: Generative Adversarial Networks - Part II](https://arxiv.org/abs/1701.00160)
+	* Presenter: Grant
