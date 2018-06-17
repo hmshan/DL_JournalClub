@@ -7,7 +7,7 @@
 
 * [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://www.cise.ufl.edu/~zizhao/mdnet.html)
 	* Presenter: Qingsong
-* TBD
+* [[Brain2Image: Converting Brain signals into images](http://crcv.ucf.edu/papers/camera_ready_acmmm_BNI08.pdf)]
 	* Presenter: Yuanyuan
 
 ## June 28, 2018
