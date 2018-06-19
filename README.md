@@ -11,8 +11,12 @@
 	* Presenter: Yuanyuan [[slides](slides/2018-06-21_Yuanyuan_EEG_GAN_VAE.pdf)]
 
 ## June 28, 2018
-* TBD
+
+* [Taskonomy: Disentangling Task Transfer Learning](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf)
+	* Presenter: Pingkun
+* [Semantic Image Inpainting with Deep Generative Models](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)
 	* Presenter: Lars
+
 
 # Past Club Meetings
 
