@@ -7,7 +7,7 @@
 * [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://www.cise.ufl.edu/~zizhao/mdnet.html)
 	* Presenter: Qingsong
 * [Taskonomy: Disentangling Task Transfer Learning](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf)
-	* Presenter: Pingkun
+	* Presenter: Pingkun [[slides](slides/2018-06-28_Pingkun_Taskonomy.pdf)]
 
 ## July 5, 2018
 
