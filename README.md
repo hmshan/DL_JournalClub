@@ -16,6 +16,14 @@
 * [Lose the Views: Limited Angle CT Reconstruction via Implicit Sinogram Completion](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anirudh_Lose_the_Views_CVPR_2018_paper.pdf)
 	* Presenter: Hongming
 
+## July 19, 2018
+
+* TBD
+	* Presenter: Grant
+
+* TBD	
+	* Presenter: Jason
+
 # Past Club Meetings
 
 ## May 24, 2018
