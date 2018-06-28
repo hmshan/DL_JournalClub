@@ -20,7 +20,6 @@
 
 * TBD
 	* Presenter: Grant
-
 * TBD	
 	* Presenter: Jason
 
