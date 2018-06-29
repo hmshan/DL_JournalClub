@@ -2,12 +2,6 @@
 * Location: 4th Floor Oxbridge Room
 * Time: Thursday, 15:30 -- 16:30
 
-## June 28, 2018
-
-* [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://www.cise.ufl.edu/~zizhao/mdnet.html)
-	* Presenter: Qingsong
-* [Taskonomy: Disentangling Task Transfer Learning](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf)
-	* Presenter: Pingkun [[slides](slides/2018-06-28_Pingkun_Taskonomy.pdf)]
 
 ## July 5, 2018
 
@@ -48,3 +42,10 @@
 
 * [Brain2Image: Converting Brain signals into images](http://crcv.ucf.edu/papers/camera_ready_acmmm_BNI08.pdf)
 	* Presenter: Yuanyuan [[slides](slides/2018-06-21_Yuanyuan_EEG_GAN_VAE.pdf)]
+
+## June 28, 2018
+
+* [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://www.cise.ufl.edu/~zizhao/mdnet.html)
+	* Presenter: Qingsong [[slides](slides/2018-06-28_Qingsong_MDNet.pdf)]
+* [Taskonomy: Disentangling Task Transfer Learning](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf)
+	* Presenter: Pingkun [[slides](slides/2018-06-28_Pingkun_Taskonomy.pdf)]
