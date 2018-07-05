@@ -6,9 +6,9 @@
 ## July 5, 2018
 
 * [Semantic Image Inpainting with Deep Generative Models](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)
-	* Presenter: Lars
+	* Presenter: Lars [[slides](slides/2018-07-5_Lars_Inpainting.pdf)]
 * [Lose the Views: Limited Angle CT Reconstruction via Implicit Sinogram Completion](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anirudh_Lose_the_Views_CVPR_2018_paper.pdf)
-	* Presenter: Hongming
+	* Presenter: Hongming [[slides](slides/2018-07-5_Hongming_CTNet.pdf)]
 
 ## July 19, 2018
 
