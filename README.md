@@ -1,6 +1,6 @@
 # Agenda for Deep Learning Journal Club
 * Location: 4th Floor Oxbridge Room
-* Time: Thursday, 15:30 -- 16:30
+* Time: Thursday, 15:00 -- 16:00
 
 
 
