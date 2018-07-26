@@ -3,15 +3,6 @@
 * Time: Thursday, 15:00 -- 16:00
 
 
-
-
-## July 19, 2018
-
-* [Semantic Image Inpainting with Deep Generative Models](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)
-	* Presenter: Lars [[slides](slides/2018-07-19_Lars_Inpainting.pdf)]
-* [Image reconstruction by domain-transform manifold learning](https://www.nature.com/articles/nature25988)
-	* Presenter: Jason
-
 ## July 26, 2018	
 
 * [Medical Image Synthesis with Deep Convolutional Adversarial Networks](https://ieeexplore.ieee.org/document/8310638/)
@@ -70,3 +61,10 @@
 ## July 5, 2018
 * [Lose the Views: Limited Angle CT Reconstruction via Implicit Sinogram Completion](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anirudh_Lose_the_Views_CVPR_2018_paper.pdf)
 	* Presenter: Hongming [[slides](slides/2018-07-5_Hongming_CTNet.pdf)]
+
+## July 19, 2018
+
+* [Semantic Image Inpainting with Deep Generative Models](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)
+	* Presenter: Lars [[slides](slides/2018-07-19_Lars_Inpainting.pdf)]
+* [Image reconstruction by domain-transform manifold learning](https://www.nature.com/articles/nature25988)
+	* Presenter: Jason
