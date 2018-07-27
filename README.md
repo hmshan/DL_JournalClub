@@ -3,27 +3,28 @@
 * Time: Thursday, 15:00 -- 16:00
 
 
-## July 26, 2018	
+## August 2, 2018	
 
-* [Medical Image Synthesis with Deep Convolutional Adversarial Networks](https://ieeexplore.ieee.org/document/8310638/)
-	* Presenter: Grant
 * [Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network](https://ieeexplore.ieee.org/document/8332971/)
 	* Presenter: Qingsong	
 
-## August 2, 2018	
-
-* [DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing](https://dl.acm.org/citation.cfm?id=3052577)
-	* Presenter: YuanYuan
 * [Deep learning with domain adaptation for accelerated projection‐reconstruction MR](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.27106)
 	* Presenter: Qing	
 
 ## August 9, 2018	
 
+* [DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing](https://dl.acm.org/citation.cfm?id=3052577)
+	* Presenter: YuanYuan
 * TBA
 	* Presenter: Lars
+
+## August 16, 2018
+
 * TBA
 	* Presenter: Jason	
-
+* TBA
+	* Presenter: Hongming
+	
 
 # Past Club Meetings
 
@@ -68,3 +69,8 @@
 	* Presenter: Lars [[slides](slides/2018-07-19_Lars_Inpainting.pdf)]
 * [Image reconstruction by domain-transform manifold learning](https://www.nature.com/articles/nature25988)
 	* Presenter: Jason
+
+## July 26, 2018	
+
+* [Medical Image Synthesis with Deep Convolutional Adversarial Networks](https://ieeexplore.ieee.org/document/8310638/)
+	* Presenter: Grant
