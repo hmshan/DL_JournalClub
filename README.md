@@ -1,13 +1,13 @@
-# Agenda for Deep Learning Journal Club
-* Location: 4th Floor Oxbridge Room
-* Time: Thursday, 15:00 -- 16:00
 
+# [Biomedical Imaging Center](http://biotech.rpi.edu/centers/bic) Deep Learning Journal Club
+
+* Location: 4th Floor Oxbridge Room
+* Time: Thursdays, 15:00 -- 16:00
 
 ## August 2, 2018	
 
 * [Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network](https://ieeexplore.ieee.org/document/8332971/)
-	* Presenter: Qingsong	
-
+    * Presenter: Qingsong	
 * [Deep learning with domain adaptation for accelerated projection‐reconstruction MR](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.27106)
 	* Presenter: Qing	
 
