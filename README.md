@@ -7,7 +7,7 @@
 ## August 2, 2018	
 
 * [Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network](https://ieeexplore.ieee.org/document/8332971/)
-    * Presenter: Qingsong	
+    * Presenter: Qingsong [[slides](slides/2018-08-2_Qingsong_Framelet.pdf)]	
 * [Deep learning with domain adaptation for accelerated projection‐reconstruction MR](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.27106)
 	* Presenter: Qing	
 
