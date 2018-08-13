@@ -13,7 +13,7 @@
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
 	* Presenter: Lars
 
-## August 16, 2018
+## August 16, 2018 (3rd Floor Oxbridge Room)
 
 * TBA
 	* Presenter: Jason	
