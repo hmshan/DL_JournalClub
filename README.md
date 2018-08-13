@@ -4,20 +4,12 @@
 * Location: 4th Floor Oxbridge Room
 * Time: Thursdays, 15:00 -- 16:00
 
-	
-
-## August 9, 2018	
-
-* [DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing](https://dl.acm.org/citation.cfm?id=3052577)
-	* Presenter: YuanYuan
-* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
-	* Presenter: Lars
 
 ## August 16, 2018 (3rd Floor Oxbridge Room)
 
-* TBA
+* [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/abs/1711.03213)
 	* Presenter: Jason	
-* TBA
+* [Visualizing High-Dimensional Data Using t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
 	* Presenter: Hongming
 	
 
@@ -76,3 +68,10 @@
     * Presenter: Qingsong [[slides](slides/2018-08-2_Qingsong_Framelet.pdf)]	
 * [Deep learning with domain adaptation for accelerated projection‐reconstruction MR](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.27106)
 	* Presenter: Qing
+
+## August 9, 2018	
+
+* [DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing](https://dl.acm.org/citation.cfm?id=3052577)
+	* Presenter: YuanYuan
+* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
+	* Presenter: Lars
