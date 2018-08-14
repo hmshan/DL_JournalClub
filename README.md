@@ -60,7 +60,7 @@
 ## July 26, 2018	
 
 * [Medical Image Synthesis with Deep Convolutional Adversarial Networks](https://ieeexplore.ieee.org/document/8310638/)
-	* Presenter: Grant
+	* Presenter: Grant [[slides](slides/2018-07-26_Grant_Synthesis.pdf)]
 
 ## August 2, 2018	
 
@@ -72,6 +72,6 @@
 ## August 9, 2018	
 
 * [DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing](https://dl.acm.org/citation.cfm?id=3052577)
-	* Presenter: YuanYuan
+	* Presenter: YuanYuan [[slides](slides/2018-08-09_Yuanyuan_Deepsense.pdf)]
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
-	* Presenter: Lars
+	* Presenter: Lars [[slides](slides/2018-08-9-Lars_CycleGAN.pdf)]
