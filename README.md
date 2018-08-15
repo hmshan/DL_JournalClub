@@ -8,7 +8,7 @@
 ## August 16, 2018 (3rd Floor Oxbridge Room)
 
 * [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/abs/1711.03213)
-	* Presenter: Jason	
+	* Presenter: Pingkun	
 * [Visualizing High-Dimensional Data Using t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
 	* Presenter: Hongming
 	
