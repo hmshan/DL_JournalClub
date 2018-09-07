@@ -1,17 +1,23 @@
 
 # [Biomedical Imaging Center](http://biotech.rpi.edu/centers/bic) Deep Learning Journal Club
 
-* Location: 4th Floor Oxbridge Room
-* Time: Thursdays, 15:00 -- 16:00
+* Location: 3rd Floor Oxbridge Room
+* Time: Wednesday, 16:00 -- 17:00
 
 
-## August 16, 2018 (3rd Floor Oxbridge Room)
+## September 12, 2018 
 
-* [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/abs/1711.03213)
-	* Presenter: Pingkun [[slides](slides/2018-08-16_Pingkun_CyCADA.pptx)]
-* [Visualizing High-Dimensional Data Using t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
-	* Presenter: Hongming [[slides](https://sites.uclouvain.be/ispgroup/uploads/ISPS/slides_120516.pdf)]
+* [Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database](https://arxiv.org/abs/1711.10535)
+	* Presenter: Grant 
+* [High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs](https://arxiv.org/abs/1711.11585)
+	* Presenter: Qing 
 	
+## September 26, 2018 
+
+* [Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)
+	* Presenter: Lars 
+* [TBA]()
+	* Presenter: Hongming 
 
 # Past Club Meetings
 
@@ -75,3 +81,10 @@
 	* Presenter: YuanYuan [[slides](slides/2018-08-09_Yuanyuan_Deepsense.pdf)]
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
 	* Presenter: Lars [[slides](slides/2018-08-9-Lars_CycleGAN.pdf)]
+
+## August 16, 2018 
+
+* [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/abs/1711.03213)
+	* Presenter: Pingkun [[slides](slides/2018-08-16_Pingkun_CyCADA.pptx)]
+* [Visualizing High-Dimensional Data Using t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
+	* Presenter: Hongming [[slides](https://sites.uclouvain.be/ispgroup/uploads/ISPS/slides_120516.pdf)]
