@@ -5,12 +5,7 @@
 * Time: Wednesday, 16:00 -- 17:00
 
 
-## September 12, 2018 
 
-* [Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database](https://arxiv.org/abs/1711.10535)
-	* Presenter: Grant 
-* [Evaluating surgical skills from kinematic data using convolutional neural networks](https://arxiv.org/pdf/1806.02750.pdf)
-	* Presenter: Yuanyuan 
 	
 ## September 26, 2018 
 
@@ -93,3 +88,10 @@
 	* Presenter: Pingkun [[slides](slides/2018-08-16_Pingkun_CyCADA.pptx)]
 * [Visualizing High-Dimensional Data Using t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
 	* Presenter: Hongming [[slides](https://sites.uclouvain.be/ispgroup/uploads/ISPS/slides_120516.pdf)]
+
+## September 12, 2018 
+
+* [Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database](https://arxiv.org/abs/1711.10535)
+	* Presenter: Grant 
+* [Evaluating surgical skills from kinematic data using convolutional neural networks](https://arxiv.org/pdf/1806.02750.pdf)
+	* Presenter: Yuanyuan 
