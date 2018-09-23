@@ -9,12 +9,19 @@
 	
 ## September 26, 2018 
 
+* [TBA]()
+	* Presenter: Hengtao 
+* [TBA]()
+	* Presenter: Xi 
+
+## October 3, 2018 
+
 * [Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)
 	* Presenter: Lars 
 * [High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs](https://arxiv.org/abs/1711.11585)
 	* Presenter: Qing 
 
-## October 3, 2018 
+## October 10, 2018 
 
 * [TBA]()
 	* Presenter: Hongming 
