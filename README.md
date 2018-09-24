@@ -9,7 +9,7 @@
 	
 ## September 26, 2018 
 
-* [TBA]()
+* [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)
 	* Presenter: Hengtao 
 * [Left-Right Comparative Recurrent Model for Stereo Matching](https://arxiv.org/abs/1804.00796)
 	* Presenter: Xi 
