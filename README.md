@@ -11,7 +11,7 @@
 
 * [TBA]()
 	* Presenter: Hengtao 
-* [TBA]()
+* [Left-Right Comparative Recurrent Model for Stereo Matching](https://arxiv.org/abs/1804.00796)
 	* Presenter: Xi 
 
 ## October 3, 2018 
