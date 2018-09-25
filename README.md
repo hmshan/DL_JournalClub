@@ -25,6 +25,8 @@
 
 * [TBA]()
 	* Presenter: Hongming 
+* [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://arxiv.org/abs/1807.03247)
+	* Presenter: Pingkun 
 
 # Past Club Meetings
 
