@@ -16,23 +16,23 @@
 
 ## October 17, 2018 
 
-* [TBD]
+* [An Explainable Adversarial Robustness Metric for Deep Learning Neural Networks](https://arxiv.org/abs/1806.01477)
 	* Presenter: Grant 
-* [TBD]
+* [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](https://arxiv.org/abs/1804.07667)
 	* Presenter: Yuanyuan 
 
 ## October 24, 2018 
 
-* [TBD]
+* [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
 	* Presenter: Hengtao 
-* [TBD]
+* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
 	* Presenter: Xi 
 
 ## October 31, 2018 
 
-* [TBD]
+* [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 	* Presenter: Xue 
-* [TBD]
+* [Compressed Sensing MRI Reconstruction Using a Generative Adversarial Network With a Cyclic Loss](https://ieeexplore.ieee.org/document/8327637)
 	* Presenter: Huidong
 
 # Past Club Meetings
