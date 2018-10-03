@@ -7,19 +7,33 @@
 
 
 
-## October 3, 2018 
-
-* [Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)
-	* Presenter: Lars [[slides](slides/2018-10-3_Lars_EraseFillRain.pdf)]
-* [High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs](https://arxiv.org/abs/1711.11585)
-	* Presenter: Qing 
-
 ## October 10, 2018 
 
 * [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)
 	* Presenter: Hongming 
 * [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://arxiv.org/abs/1807.03247)
 	* Presenter: Pingkun 
+
+## October 17, 2018 
+
+* [TBD]
+	* Presenter: Grant 
+* [TBD]
+	* Presenter: Yuanyuan 
+
+## October 24, 2018 
+
+* [TBD]
+	* Presenter: Hengtao 
+* [TBD]
+	* Presenter: Xi 
+
+## October 31, 2018 
+
+* [TBD]
+	* Presenter: Xue 
+* [TBD]
+	* Presenter: Huidong
 
 # Past Club Meetings
 
@@ -105,3 +119,10 @@
 	* Presenter: Hengtao 
 * [Left-Right Comparative Recurrent Model for Stereo Matching](https://arxiv.org/abs/1804.00796)
 	* Presenter: Xi 
+
+## October 3, 2018 
+
+* [Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)
+	* Presenter: Lars [[slides](slides/2018-10-3_Lars_EraseFillRain.pdf)]
+* [High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs](https://arxiv.org/abs/1711.11585)
+	* Presenter: Qing 
