@@ -10,7 +10,7 @@
 ## October 3, 2018 
 
 * [Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)
-	* Presenter: Lars 
+	* Presenter: Lars [[slides](slides/2018-10-3_Lars_EraseFillRain.pdf)]
 * [High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs](https://arxiv.org/abs/1711.11585)
 	* Presenter: Qing 
 
