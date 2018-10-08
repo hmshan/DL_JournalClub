@@ -25,15 +25,15 @@
 
 * [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
 	* Presenter: Hengtao 
-* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
-	* Presenter: Xi 
+* [Compressed Sensing MRI Reconstruction Using a Generative Adversarial Network With a Cyclic Loss](https://ieeexplore.ieee.org/document/8327637)
+	* Presenter: Huidong
 
 ## October 31, 2018 
 
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 	* Presenter: Xue 
-* [Compressed Sensing MRI Reconstruction Using a Generative Adversarial Network With a Cyclic Loss](https://ieeexplore.ieee.org/document/8327637)
-	* Presenter: Huidong
+* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
+	* Presenter: Xi 
 
 # Past Club Meetings
 
