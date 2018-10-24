@@ -24,6 +24,11 @@
 
 # Past Club Meetings
 
+## April 26, 2018
+* [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+	* Presenter: Hongming [[slides](slides/2018-04-26_Hongming_Localization.pdf)]
+
+
 ## May 24, 2018
 * [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
 	* Presenter: Qing [[slides](slides/2018-05-24_Qing_DRL.pdf)]
