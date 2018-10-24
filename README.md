@@ -6,12 +6,7 @@
 
 
 
-## October 17, 2018 
 
-* [An Explainable Adversarial Robustness Metric for Deep Learning Neural Networks](https://arxiv.org/abs/1806.01477)
-	* Presenter: Grant 
-* [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](https://arxiv.org/abs/1804.07667)
-	* Presenter: Yuanyuan 
 
 ## October 24, 2018 
 
@@ -125,3 +120,10 @@
 	* Presenter: Hongming [[slides](slides/2018-10-10_Hongming_BigGAN.pdf)]
 * [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://arxiv.org/abs/1807.03247)
 	* Presenter: Pingkun [[slides](slides/2018-10-10-Pingkun_CoordConv.pdf)]
+
+## October 17, 2018 
+
+* [An Explainable Adversarial Robustness Metric for Deep Learning Neural Networks](https://arxiv.org/abs/1806.01477)
+	* Presenter: Grant 
+* [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](https://arxiv.org/abs/1804.07667)
+	* Presenter: Yuanyuan 
