@@ -24,7 +24,7 @@
 * [SynSeg-Net: Synthetic Segmentation Without Target Modality Ground Truth](https://ieeexplore.ieee.org/document/8494797)
 	* Presenter: Pingkun 
 * [Fully convolutional networks for semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
-	* Presenter: Mengzhou Li
+	* Presenter: Mengzhou
 
 ## November 28, 2018 
 
@@ -38,7 +38,7 @@
 
 * [Recognizing Brain States Using Deep Sparse Recurrent Neural Network](https://ieeexplore.ieee.org/document/8502825)
 	* Presenter: Yuanyuan 
-* [Understanding deep learning requires rethinking generalization. International Conference on Learning Representations](https://arxiv.org/abs/1611.03530)
+* [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 	* Presenter: Xue 
 
 ## December 19, 2018 
