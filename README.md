@@ -12,6 +12,44 @@
 * [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
 	* Presenter: Xi 
 
+## November 7, 2018 
+
+* [Learning to Segment Every Thing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf)
+	* Presenter: Hongming 
+* [Deep Reinforcement Learning with Double Q-Learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847)
+	* Presenter: Qing 
+
+## November 14, 2018 
+
+* [SynSeg-Net: Synthetic Segmentation Without Target Modality Ground Truth](https://ieeexplore.ieee.org/document/8494797)
+	* Presenter: Pingkun 
+* [Fully convolutional networks for semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
+	* Presenter: Mengzhou Li
+
+## November 28, 2018 
+
+* [Iterative PET Image Reconstruction Using Convolutional Neural Network Representation](https://ieeexplore.ieee.org/document/8463596)
+	* Presenter: Lars 
+* [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/pdf/1711.10337.pdf)
+	* Presenter: Grant
+
+
+## December 5, 2018 
+
+* [Recognizing Brain States Using Deep Sparse Recurrent Neural Network](https://ieeexplore.ieee.org/document/8502825)
+	* Presenter: Yuanyuan 
+* [Understanding deep learning requires rethinking generalization. International Conference on Learning Representations](https://arxiv.org/abs/1611.03530)
+	* Presenter: Xue 
+
+## December 19, 2018 
+
+* [You only look once: Unified, real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
+	* Presenter: Xi
+* [Learning with a Wasserstein Loss](https://arxiv.org/abs/1506.05439)
+	* Presenter: Hengtao 
+
+
+
 # Past Club Meetings
 
 ## October 24, 2018 
