@@ -5,16 +5,6 @@
 * Time: Wednesday, 16:00 -- 17:00
 
 
-
-
-
-## October 24, 2018 
-
-* [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
-	* Presenter: Hengtao 
-* [Compressed Sensing MRI Reconstruction Using a Generative Adversarial Network With a Cyclic Loss](https://ieeexplore.ieee.org/document/8327637)
-	* Presenter: Huidong
-
 ## October 31, 2018 
 
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
@@ -23,6 +13,13 @@
 	* Presenter: Xi 
 
 # Past Club Meetings
+
+## October 24, 2018 
+
+* [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
+	* Presenter: Hengtao 
+* [Compressed Sensing MRI Reconstruction Using a Generative Adversarial Network With a Cyclic Loss](https://ieeexplore.ieee.org/document/8327637)
+	* Presenter: Huidong
 
 ## April 26, 2018
 * [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
