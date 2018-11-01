@@ -5,13 +5,6 @@
 * Time: Wednesday, 16:00 -- 17:00
 
 
-## October 31, 2018 
-
-* [Mask R-CNN](https://arxiv.org/abs/1703.06870)
-	* Presenter: Xue 
-* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
-	* Presenter: Xi 
-
 ## November 7, 2018 
 
 * [Learning to Segment Every Thing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf)
@@ -51,6 +44,13 @@
 
 
 # Past Club Meetings
+
+## October 31, 2018 
+
+* [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+	* Presenter: Xue 
+* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
+	* Presenter: Xi 
 
 ## October 24, 2018 
 
