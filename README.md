@@ -37,9 +37,9 @@
 ## December 19, 2018 
 
 * [You only look once: Unified, real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
-	* Presenter: Xi
+	* Presenter: Hengtao
 * [Learning with a Wasserstein Loss](https://arxiv.org/abs/1506.05439)
-	* Presenter: Hengtao 
+	* Presenter: Xi
 
 
 
