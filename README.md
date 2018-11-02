@@ -48,7 +48,7 @@
 ## October 31, 2018 
 
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
-	* Presenter: Xue 
+	* Presenter: Xue [[slides](slides/2018-10-31_Xue_Mask_RCNN.pdf)]
 * [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
 	* Presenter: Xi 
 
