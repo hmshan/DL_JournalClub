@@ -5,12 +5,6 @@
 * Time: Wednesday, 16:00 -- 17:00
 
 
-## November 7, 2018 
-
-* [Learning to Segment Every Thing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf)
-	* Presenter: Hongming 
-* [Deep Reinforcement Learning with Double Q-Learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847)
-	* Presenter: Qing 
 
 ## November 14, 2018 
 
@@ -45,19 +39,7 @@
 
 # Past Club Meetings
 
-## October 31, 2018 
 
-* [Mask R-CNN](https://arxiv.org/abs/1703.06870)
-	* Presenter: Xue [[slides](slides/2018-10-31_Xue_Mask_RCNN.pdf)]
-* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
-	* Presenter: Xi 
-
-## October 24, 2018 
-
-* [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
-	* Presenter: Hengtao 
-* [Compressed Sensing MRI Reconstruction Using a Generative Adversarial Network With a Cyclic Loss](https://ieeexplore.ieee.org/document/8327637)
-	* Presenter: Huidong
 
 ## April 26, 2018
 * [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
@@ -167,3 +149,25 @@
 	* Presenter: Grant 
 * [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](https://arxiv.org/abs/1804.07667)
 	* Presenter: Yuanyuan 
+
+## October 24, 2018 
+
+* [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
+	* Presenter: Hengtao 
+* [Compressed Sensing MRI Reconstruction Using a Generative Adversarial Network With a Cyclic Loss](https://ieeexplore.ieee.org/document/8327637)
+	* Presenter: Huidong
+
+## October 31, 2018 
+
+* [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+	* Presenter: Xue [[slides](slides/2018-10-31_Xue_Mask_RCNN.pdf)]
+* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
+	* Presenter: Xi 
+
+
+## November 7, 2018 
+
+* [Learning to Segment Every Thing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf)
+	* Presenter: Hongming [[slides](slides/2018-11-7_Hongming_MaskXRCNN.pdf)]
+* [Deep Reinforcement Learning with Double Q-Learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847)
+	* Presenter: Qing [[slides](slides/2018-11-7_Qing_DoubleQ.pdf)]
