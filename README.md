@@ -6,12 +6,7 @@
 
 
 
-## November 14, 2018 
 
-* [SynSeg-Net: Synthetic Segmentation Without Target Modality Ground Truth](https://ieeexplore.ieee.org/document/8494797)
-	* Presenter: Pingkun 
-* [Fully convolutional networks for semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
-	* Presenter: Jason
 
 ## November 28, 2018 
 
@@ -171,3 +166,10 @@
 	* Presenter: Hongming [[slides](slides/2018-11-7_Hongming_MaskXRCNN.pdf)]
 * [Deep Reinforcement Learning with Double Q-Learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847)
 	* Presenter: Qing [[slides](slides/2018-11-7_Qing_DoubleQ.pdf)]
+
+## November 14, 2018 
+
+* [SynSeg-Net: Synthetic Segmentation Without Target Modality Ground Truth](https://ieeexplore.ieee.org/document/8494797)
+	* Presenter: Pingkun 
+* [Fully convolutional networks for semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
+	* Presenter: Jason
