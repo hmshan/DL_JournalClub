@@ -8,7 +8,7 @@
 
 
 
-## November 28, 2018 
+## December 5, 2018 
 
 * [Iterative PET Image Reconstruction Using Convolutional Neural Network Representation](https://ieeexplore.ieee.org/document/8463596)
 	* Presenter: Lars 
@@ -16,14 +16,14 @@
 	* Presenter: Grant
 
 
-## December 5, 2018 
+## December 19, 2018 
 
 * [Recognizing Brain States Using Deep Sparse Recurrent Neural Network](https://ieeexplore.ieee.org/document/8502825)
 	* Presenter: Yuanyuan 
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 	* Presenter: Xue 
 
-## December 19, 2018 
+## Date TBD 
 
 * [You only look once: Unified, real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
 	* Presenter: Hengtao
