@@ -34,7 +34,13 @@
 
 # Past Club Meetings
 
+## April 12, 2018
+* [Generative Adversarial Network](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+	* Presenter: Qing [[slides](slides/2018-04-12_Qing_GAN.pdf)]
 
+## April 19, 2018
+* [Network In Network](https://arxiv.org/abs/1312.4400)
+	* Presenter: Qing [[slides](slides/2018-04-19_Qing_NIN.pdf)]
 
 ## April 26, 2018
 * [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
