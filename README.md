@@ -103,7 +103,7 @@
 ## August 16, 2018 
 
 * [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/abs/1711.03213)
-	* Presenter: Pingkun [[slides](slides/2018-08-16_Pingkun_CyCADA.pptx)]
+	* Presenter: Pingkun [[slides](slides/2018-08-16_Pingkun_CyCADA.pdf)]
 * [Visualizing High-Dimensional Data Using t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
 	* Presenter: Hongming [[slides](https://sites.uclouvain.be/ispgroup/uploads/ISPS/slides_120516.pdf)]
 
@@ -168,7 +168,7 @@
 ## November 14, 2018 
 
 * [SynSeg-Net: Synthetic Segmentation Without Target Modality Ground Truth](https://ieeexplore.ieee.org/document/8494797)
-	* Presenter: Pingkun [[video](https://www.youtube.com/watch?v=LTTh1WWPZ1o&feature=youtu.be)]
+	* Presenter: Pingkun [[slides](slides/2018-11-14_Pingkun_SynSeg-Net.pdf),[video](https://www.youtube.com/watch?v=LTTh1WWPZ1o&feature=youtu.be)]
 * [Fully convolutional networks for semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 	* Presenter: Jason
 
