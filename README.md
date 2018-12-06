@@ -148,7 +148,7 @@
 * [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
 	* Presenter: Hengtao 
 * [Compressed Sensing MRI Reconstruction Using a Generative Adversarial Network With a Cyclic Loss](https://ieeexplore.ieee.org/document/8327637)
-	* Presenter: Huidong
+	* Presenter: Huidong [[slides](2018-10-24_Huidong_MRI.pdf)]
 
 ## October 31, 2018 
 
@@ -170,7 +170,7 @@
 * [SynSeg-Net: Synthetic Segmentation Without Target Modality Ground Truth](https://ieeexplore.ieee.org/document/8494797)
 	* Presenter: Pingkun [[slides](slides/2018-11-14_Pingkun_SynSeg-Net.pdf),[video](https://www.youtube.com/watch?v=LTTh1WWPZ1o&feature=youtu.be)]
 * [Fully convolutional networks for semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
-	* Presenter: Jason
+	* Presenter: Jason [[slides](slides/2018-11-14_Jason_FCN.pdf)]
 
 
 ## December 5, 2018 
