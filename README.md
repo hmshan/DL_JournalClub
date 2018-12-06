@@ -120,7 +120,7 @@
 * [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)
 	* Presenter: Hengtao [[slides](slides/2018-09-26_Hengtao_HR.pdf)] 
 * [Left-Right Comparative Recurrent Model for Stereo Matching](https://arxiv.org/abs/1804.00796)
-	* Presenter: Xi 
+	* Presenter: Xi [[slides](slides/2018-09-26_Xi_LR.pdf)] 
 
 ## October 3, 2018 
 
@@ -155,7 +155,7 @@
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 	* Presenter: Xue [[slides](slides/2018-10-31_Xue_Mask_RCNN.pdf)]
 * [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081)
-	* Presenter: Xi 
+	* Presenter: Xi [[slides](slides/2018-10-31_Xi_Extreme.pdf)] 
 
 
 ## November 7, 2018 
