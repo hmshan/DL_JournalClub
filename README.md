@@ -8,14 +8,6 @@
 
 
 
-## December 5, 2018 
-
-* [Iterative PET Image Reconstruction Using Convolutional Neural Network Representation](https://ieeexplore.ieee.org/document/8463596)
-	* Presenter: Lars 
-* [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/pdf/1711.10337.pdf)
-	* Presenter: Grant
-
-
 ## December 19, 2018 
 
 * [Recognizing Brain States Using Deep Sparse Recurrent Neural Network](https://ieeexplore.ieee.org/document/8502825)
@@ -179,3 +171,12 @@
 	* Presenter: Pingkun 
 * [Fully convolutional networks for semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 	* Presenter: Jason
+
+
+## December 5, 2018 
+
+* [Iterative PET Image Reconstruction Using Convolutional Neural Network Representation](https://ieeexplore.ieee.org/document/8463596)
+	* Presenter: Lars 
+* [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/pdf/1711.10337.pdf)
+	* Presenter: Grant
+
