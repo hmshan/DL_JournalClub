@@ -146,7 +146,7 @@
 ## October 24, 2018 
 
 * [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
-	* Presenter: Hengtao 
+	* Presenter: Hengtao [[slides](slides/2018-10-24_Hengtao_W2F.pdf)] 
 * [Compressed Sensing MRI Reconstruction Using a Generative Adversarial Network With a Cyclic Loss](https://ieeexplore.ieee.org/document/8327637)
 	* Presenter: Huidong [[slides](slides/2018-10-24_Huidong_MRI.pdf)]
 
