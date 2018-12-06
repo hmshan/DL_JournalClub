@@ -168,7 +168,7 @@
 ## November 14, 2018 
 
 * [SynSeg-Net: Synthetic Segmentation Without Target Modality Ground Truth](https://ieeexplore.ieee.org/document/8494797)
-	* Presenter: Pingkun 
+	* Presenter: Pingkun [[video](https://www.youtube.com/watch?v=LTTh1WWPZ1o&feature=youtu.be)]
 * [Fully convolutional networks for semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 	* Presenter: Jason
 
