@@ -176,7 +176,7 @@
 ## December 5, 2018 
 
 * [Iterative PET Image Reconstruction Using Convolutional Neural Network Representation](https://ieeexplore.ieee.org/document/8463596)
-	* Presenter: Lars 
+	* Presenter: Lars [[slides](slides/2018-12-05_Lars_PET.pdf)]
 * [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/pdf/1711.10337.pdf)
 	* Presenter: Grant
 
