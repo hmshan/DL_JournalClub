@@ -141,7 +141,7 @@
 * [An Explainable Adversarial Robustness Metric for Deep Learning Neural Networks](https://arxiv.org/abs/1806.01477)
 	* Presenter: Grant 
 * [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](https://arxiv.org/abs/1804.07667)
-	* Presenter: Yuanyuan 
+	* Presenter: Yuanyuan [[slides](slides/2018-10-17_Yuanyuan_TAL.pdf)]
 
 ## October 24, 2018 
 
