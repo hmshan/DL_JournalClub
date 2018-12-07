@@ -112,7 +112,7 @@
 * [Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database](https://arxiv.org/abs/1711.10535)
 	* Presenter: Grant 
 * [Evaluating surgical skills from kinematic data using convolutional neural networks](https://arxiv.org/pdf/1806.02750.pdf)
-	* Presenter: Yuanyuan 
+	* Presenter: Yuanyuan [[slides](slides/2018-09-12_Yuanyuan_Skill_level.pdf)] 
 
 	
 ## September 26, 2018 
