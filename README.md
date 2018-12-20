@@ -178,6 +178,6 @@
 ## December 19, 2018 
 
 * [Recognizing Brain States Using Deep Sparse Recurrent Neural Network](https://ieeexplore.ieee.org/document/8502825)
-	* Presenter: Yuanyuan 
+	* Presenter: Yuanyuan [[slides](slides/2018-12-19_Yuanyuan_DSRNN.pdf)]
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 	* Presenter: Xue [[slides](slides/2018-12-19_Xue_Generalization.pdf)]
