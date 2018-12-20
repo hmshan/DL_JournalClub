@@ -8,12 +8,7 @@
 
 
 
-## December 19, 2018 
 
-* [Recognizing Brain States Using Deep Sparse Recurrent Neural Network](https://ieeexplore.ieee.org/document/8502825)
-	* Presenter: Yuanyuan 
-* [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
-	* Presenter: Xue 
 
 ## Date TBD 
 
@@ -180,3 +175,9 @@
 * [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/pdf/1711.10337.pdf)
 	* Presenter: Grant
 
+## December 19, 2018 
+
+* [Recognizing Brain States Using Deep Sparse Recurrent Neural Network](https://ieeexplore.ieee.org/document/8502825)
+	* Presenter: Yuanyuan 
+* [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
+	* Presenter: Xue [[slides](slides/2018-12-19_Xue_Generalization.pdf)]
