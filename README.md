@@ -10,14 +10,42 @@
 
 
 
-## Date TBD 
+## January 16, 2019
 
 * [You only look once: Unified, real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
 	* Presenter: Hengtao
 * [Learning with a Wasserstein Loss](https://arxiv.org/abs/1506.05439)
 	* Presenter: Xi
 
+## January 23, 2019
+* [GLoMo: Unsupervised Learning of Transferable Relational Graphs](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs)
+  * Presenter: Qing
+* [Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)
+  * Presenter: Fenglei
 
+## January 30, 2019
+* [BourGAN: Generative Networks with Metric Embeddings](https://papers.nips.cc/paper/7495-bourgan-generative-networks-with-metric-embeddings)
+  * Presenter: Hongming
+* [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446)
+  * Presenter: Xue
+
+## February 6, 2019
+* [Wasserstein Introspective Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Lee_Wasserstein_Introspective_Neural_CVPR_2018_paper.pdf)
+  * Presenter: Grant
+* [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images)
+  * Presenter: Qikui
+
+## February 13, 2019
+* [Multivariate Time Series Imputation with Generative Adversarial Networks](https://papers.nips.cc/paper/7432-multivariate-time-series-imputation-with-generative-adversarial-networks)
+  * Presenter: Yuanyuan
+* [Aggregated residual transformations for deep neural networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)
+  * Presenter: Huidong
+
+## February 20, 2019
+* [Deep learning enables cross-modality super-resolution in fluorescence microscopy](https://www.nature.com/articles/s41592-018-0239-0)
+  * Presenter: Mengzhou
+* []()
+  * Presenter: Fatir
 
 # Past Club Meetings
 
