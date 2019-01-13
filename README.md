@@ -36,16 +36,12 @@
   * Presenter: Qikui
 
 ## February 13, 2019
-* [Multivariate Time Series Imputation with Generative Adversarial Networks](https://papers.nips.cc/paper/7432-multivariate-time-series-imputation-with-generative-adversarial-networks)
-  * Presenter: Yuanyuan
+
 * [Aggregated residual transformations for deep neural networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)
   * Presenter: Huidong
-
-## February 20, 2019
 * [Deep learning enables cross-modality super-resolution in fluorescence microscopy](https://www.nature.com/articles/s41592-018-0239-0)
   * Presenter: Mengzhou
-* []()
-  * Presenter: Fatir
+
 
 # Past Club Meetings
 
