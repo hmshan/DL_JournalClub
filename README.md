@@ -18,16 +18,18 @@
 	* Presenter: Xi
 
 ## January 23, 2019
-* [GLoMo: Unsupervised Learning of Transferable Relational Graphs](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs)
-  * Presenter: Qing
+
 * [Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)
   * Presenter: Fenglei
-
-## January 30, 2019
-* [BourGAN: Generative Networks with Metric Embeddings](https://papers.nips.cc/paper/7495-bourgan-generative-networks-with-metric-embeddings)
-  * Presenter: Hongming
 * [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446)
   * Presenter: Xue
+
+## January 30, 2019
+* [GLoMo: Unsupervised Learning of Transferable Relational Graphs](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs)
+  * Presenter: Qing
+* [BourGAN: Generative Networks with Metric Embeddings](https://papers.nips.cc/paper/7495-bourgan-generative-networks-with-metric-embeddings)
+  * Presenter: Hongming
+
 
 ## February 6, 2019
 * [Wasserstein Introspective Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Lee_Wasserstein_Introspective_Neural_CVPR_2018_paper.pdf)
