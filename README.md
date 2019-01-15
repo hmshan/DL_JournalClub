@@ -44,6 +44,11 @@
 * [Deep learning enables cross-modality super-resolution in fluorescence microscopy](https://www.nature.com/articles/s41592-018-0239-0)
   * Presenter: Mengzhou
 
+## February 20, 2019
+
+* [Improved Semi-supervised Learning with GANs using Manifold Invariances](https://arxiv.org/abs/1705.08850)
+  * Presenter: Fatir
+
 
 # Past Club Meetings
 
