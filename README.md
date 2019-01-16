@@ -5,18 +5,6 @@
 * Time: Wednesday, 16:00 -- 17:00
 
 
-
-
-
-
-
-## January 16, 2019
-
-* [You only look once: Unified, real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
-	* Presenter: Hengtao
-* [Learning with a Wasserstein Loss](https://arxiv.org/abs/1506.05439)
-	* Presenter: Xi
-
 ## January 23, 2019
 
 * [Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)
@@ -212,3 +200,10 @@
 	* Presenter: Yuanyuan [[slides](slides/2018-12-19_Yuanyuan_DSRNN.pdf)]
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 	* Presenter: Xue [[slides](slides/2018-12-19_Xue_Generalization.pdf)]
+
+## January 16, 2019
+
+* [You only look once: Unified, real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
+	* Presenter: Hengtao
+* [Learning with a Wasserstein Loss](https://arxiv.org/abs/1506.05439)
+	* Presenter: Xi
