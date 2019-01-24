@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## January 23, 2019
-
-* [Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)
-  * Presenter: Fenglei
-* [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446)
-  * Presenter: Xue
-
 ## January 30, 2019
 * [GLoMo: Unsupervised Learning of Transferable Relational Graphs](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs)
   * Presenter: Qing
