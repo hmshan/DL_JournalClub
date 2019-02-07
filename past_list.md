@@ -175,4 +175,10 @@
 * [Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)
   * Presenter: Fenglei
 * [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446)
-  * Presenter: Xue
+  * Presenter: Xue [[slides](slides/2019-01-23_Xue_PanopticFPN.pdf)]
+
+## February 6, 2019
+* [GLoMo: Unsupervised Learning of Transferable Relational Graphs](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs)
+  * Presenter: Qing [[slides](slides/2019-02-06_Qing_GLOMO.pdf)]
+* [BourGAN: Generative Networks with Metric Embeddings](https://papers.nips.cc/paper/7495-bourgan-generative-networks-with-metric-embeddings)
+  * Presenter: Hongming [[slides](slides/2019-02-06_Hongming_BourGAN.pdf)]

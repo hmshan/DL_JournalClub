@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## February 6, 2019
-* [GLoMo: Unsupervised Learning of Transferable Relational Graphs](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs)
-  * Presenter: Qing
-* [BourGAN: Generative Networks with Metric Embeddings](https://papers.nips.cc/paper/7495-bourgan-generative-networks-with-metric-embeddings)
-  * Presenter: Hongming
-
-
 ## February 13, 2019
 * [Wasserstein Introspective Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Lee_Wasserstein_Introspective_Neural_CVPR_2018_paper.pdf)
   * Presenter: Grant
