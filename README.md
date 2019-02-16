@@ -7,12 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## February 13, 2019
-* [Wasserstein Introspective Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Lee_Wasserstein_Introspective_Neural_CVPR_2018_paper.pdf)
-  * Presenter: Grant
-* [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images)
-  * Presenter: Qikui
-
 ## February 20, 2019
 
 * [Aggregated residual transformations for deep neural networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)
@@ -24,6 +18,8 @@
 
 * [Improved Semi-supervised Learning with GANs using Manifold Invariances](https://arxiv.org/abs/1705.08850)
   * Presenter: Fatir
+* [Self-Supervised Deep Active Accelerated MRI](https://arxiv.org/abs/1901.04547)
+  * Presenter: Jason
 
 
 

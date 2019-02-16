@@ -182,3 +182,9 @@
   * Presenter: Qing [[slides](slides/2019-02-06_Qing_GLOMO.pdf)]
 * [BourGAN: Generative Networks with Metric Embeddings](https://papers.nips.cc/paper/7495-bourgan-generative-networks-with-metric-embeddings)
   * Presenter: Hongming [[slides](slides/2019-02-06_Hongming_BourGAN.pdf)]
+
+## February 13, 2019
+* [Wasserstein Introspective Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Lee_Wasserstein_Introspective_Neural_CVPR_2018_paper.pdf)
+  * Presenter: Grant
+* [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images)
+  * Presenter: Qikui
