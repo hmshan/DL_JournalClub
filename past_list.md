@@ -173,18 +173,25 @@
 ## January 23, 2019
 
 * [Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)
-  * Presenter: Fenglei
+	* Presenter: Fenglei
 * [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446)
-  * Presenter: Xue [[slides](slides/2019-01-23_Xue_PanopticFPN.pdf)]
+	* Presenter: Xue [[slides](slides/2019-01-23_Xue_PanopticFPN.pdf)]
 
 ## February 6, 2019
 * [GLoMo: Unsupervised Learning of Transferable Relational Graphs](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs)
-  * Presenter: Qing [[slides](slides/2019-02-06_Qing_GLOMO.pdf)]
+	* Presenter: Qing [[slides](slides/2019-02-06_Qing_GLOMO.pdf)]
 * [BourGAN: Generative Networks with Metric Embeddings](https://papers.nips.cc/paper/7495-bourgan-generative-networks-with-metric-embeddings)
-  * Presenter: Hongming [[slides](slides/2019-02-06_Hongming_BourGAN.pdf)]
+	* Presenter: Hongming [[slides](slides/2019-02-06_Hongming_BourGAN.pdf)]
 
 ## February 13, 2019
 * [Wasserstein Introspective Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Lee_Wasserstein_Introspective_Neural_CVPR_2018_paper.pdf)
-  * Presenter: Grant
+	* Presenter: Grant
 * [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images)
-  * Presenter: Qikui
+	* Presenter: Qikui
+
+## February 20, 2019
+
+* [Aggregated residual transformations for deep neural networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)
+	* Presenter: Huidong [[slides](slides/2019-02-20_Huidong_ResNeXt.pdf)]
+* [Deep learning enables cross-modality super-resolution in fluorescence microscopy](https://www.nature.com/articles/s41592-018-0239-0)
+	* Presenter: Mengzhou [[slides](slides/2019-02-20_Mengzhou_OpticalSR.pdf)]
