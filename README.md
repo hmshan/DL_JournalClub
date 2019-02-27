@@ -47,5 +47,5 @@
 
 * [Attention is all you need](https://arxiv.org/abs/1706.03762)
 	* Presenter: Huidong
-* [TBA]
-	* Mengzhou
+* [Content-aware image restoration: pushing the limits of fluorescence microscopy](https://www.nature.com/articles/s41592-018-0216-7)
+	* Presenter: Mengzhou
