@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## February 27, 2019
-
-* [Improved Semi-supervised Learning with GANs using Manifold Invariances](https://arxiv.org/abs/1705.08850)
-	* Presenter: Fatir
-* [Self-Supervised Deep Active Accelerated MRI](https://arxiv.org/abs/1901.04547)
-	* Presenter: Jason
-
 ## March 13, 2019
 
 * [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf)
