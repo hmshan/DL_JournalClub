@@ -202,3 +202,10 @@
 	* Presenter: Fatir
 * [Self-Supervised Deep Active Accelerated MRI](https://arxiv.org/abs/1901.04547)
 	* Presenter: Jason [[slides](slides/2019-02-27_Jason_SelfSupervisedMRI.pdf)]
+
+## March 13, 2019
+
+* [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf)
+	* Presenter: Xi
+* [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
+	* Presenter: Hengtao

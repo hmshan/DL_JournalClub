@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## March 13, 2019
-
-* [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf)
-	* Presenter: Xi
-* [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
-	* Presenter: Hengtao
-
 ## March 20, 2019
 
 * [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/pdf/1901.07261.pdf)
