@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## March 20, 2019
-
-* [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/pdf/1901.07261.pdf)
-	* Presenter: Fenglei
-* [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971)
-	* Presenter: Xue
-
 ## March 27, 2019
 
 * [Deep image prior](https://arxiv.org/pdf/1711.10925.pdf)

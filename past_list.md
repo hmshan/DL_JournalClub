@@ -209,3 +209,10 @@
 	* Presenter: Xi
 * [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
 	* Presenter: Hengtao
+
+## March 20, 2019
+
+* [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/pdf/1901.07261.pdf)
+	* Presenter: Fenglei
+* [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971)
+	* Presenter: Xue
