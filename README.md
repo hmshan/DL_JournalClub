@@ -9,7 +9,7 @@
 
 ## March 27, 2019
 
-* [Deep image prior](https://arxiv.org/pdf/1711.10925.pdf)
+* [Deep image prior](https://dmitryulyanov.github.io/deep_image_prior)
 	* Presenter: Qing
 * [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 	* Presenter: Hongming
