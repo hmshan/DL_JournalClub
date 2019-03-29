@@ -216,3 +216,10 @@
 	* Presenter: Fenglei
 * [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971)
 	* Presenter: Xue
+
+## March 27, 2019
+
+* [Deep image prior](https://dmitryulyanov.github.io/deep_image_prior)
+	* Presenter: Qing [[slides](slides/2019-03-27_qing_deepprior.pdf)]
+* [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
+	* Presenter: Hongming [[slides](slides/2019-03-27_Hongming_StyleGAN.pdf)]

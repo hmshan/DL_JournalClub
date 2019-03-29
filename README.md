@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## March 27, 2019
-
-* [Deep image prior](https://dmitryulyanov.github.io/deep_image_prior)
-	* Presenter: Qing
-* [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
-	* Presenter: Hongming
-
 
 ## April 3, 2019
 
