@@ -223,3 +223,10 @@
 	* Presenter: Qing [[slides](slides/2019-03-27_qing_deepprior.pdf)]
 * [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 	* Presenter: Hongming [[slides](slides/2019-03-27_Hongming_StyleGAN.pdf)]
+	
+## April 3, 2019
+
+* [Group Normalization](https://arxiv.org/abs/1803.08494)
+	* Presenter: Grant
+* [An integrated iterative annotation technique for easing neural network training in medical image analysis](https://www.nature.com/articles/s42256-019-0018-3)
+	* Presenter: Qikui
