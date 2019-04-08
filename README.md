@@ -7,14 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-
-## April 3, 2019
-
-* [Group Normalization](https://arxiv.org/abs/1803.08494)
-	* Presenter: Grant
-* [An integrated iterative annotation technique for easing neural network training in medical image analysis](https://www.nature.com/articles/s42256-019-0018-3)
-	* Presenter: Qikui
-
 ## April 10, 2019 
 
 * [Attention is all you need](https://arxiv.org/abs/1706.03762)
