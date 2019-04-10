@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## April 10, 2019 
-
-* [Attention is all you need](https://arxiv.org/abs/1706.03762)
-	* Presenter: Huidong
-* [Content-aware image restoration: pushing the limits of fluorescence microscopy](https://www.nature.com/articles/s41592-018-0216-7)
-	* Presenter: Mengzhou
-
 ## April 17, 2019
 
 * [Deep Learning for Automated Contouring of Primary Tumor Volumes by MRI for Nasopharyngeal Carcinoma](https://pubs.rsna.org/doi/10.1148/radiol.2019182012)
