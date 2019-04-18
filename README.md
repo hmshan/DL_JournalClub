@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## April 17, 2019
-
-* [Deep Learning for Automated Contouring of Primary Tumor Volumes by MRI for Nasopharyngeal Carcinoma](https://pubs.rsna.org/doi/10.1148/radiol.2019182012)
-	* Presenter: Zhao
-* [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
-	* Presenter: Fatir
-
 ## April 24, 2019
 
 * [Learning to Summarize Radiology Findings](https://arxiv.org/abs/1809.04698)

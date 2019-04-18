@@ -166,7 +166,7 @@
 ## January 16, 2019
 
 * [You only look once: Unified, real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
-	* Presenter: Hengtao
+	* Presenter: Hengtao [[slides](slides/2019-01-16_Hengtao_YOLO.pdf)]
 * [Learning with a Wasserstein Loss](https://arxiv.org/abs/1506.05439)
 	* Presenter: Xi
 
@@ -208,7 +208,7 @@
 * [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf)
 	* Presenter: Xi
 * [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
-	* Presenter: Hengtao
+	* Presenter: Hengtao [[slides](slides/2019-03-13_Hengtao_SelfAttentionGAN.pdf)]
 
 ## March 20, 2019
 
@@ -234,6 +234,13 @@
 ## April 10, 2019 
 
 * [Attention is all you need](https://arxiv.org/abs/1706.03762)
-	* Presenter: Huidong
+	* Presenter: Huidong [[slides](slides/2019-04-10_Huidong_Attention.pdf)]
 * [Content-aware image restoration: pushing the limits of fluorescence microscopy](https://www.nature.com/articles/s41592-018-0216-7)
 	* Presenter: Mengzhou [[slides](slides/2019-04-10_Mengzhou_Fluorescence.pdf)]
+
+## April 17, 2019
+
+* [Deep Learning for Automated Contouring of Primary Tumor Volumes by MRI for Nasopharyngeal Carcinoma](https://pubs.rsna.org/doi/10.1148/radiol.2019182012)
+	* Presenter: Zhao
+* [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
+	* Presenter: Fatir
