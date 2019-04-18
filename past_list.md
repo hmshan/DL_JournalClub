@@ -168,7 +168,7 @@
 * [You only look once: Unified, real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
 	* Presenter: Hengtao [[slides](slides/2019-01-16_Hengtao_YOLO.pdf)]
 * [Learning with a Wasserstein Loss](https://arxiv.org/abs/1506.05439)
-	* Presenter: Xi
+	* Presenter: Xi [[slides](slides/2019-01-16_Xi_wloss.pdf)]
 
 ## January 23, 2019
 
@@ -206,7 +206,7 @@
 ## March 13, 2019
 
 * [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf)
-	* Presenter: Xi
+	* Presenter: Xi [[slides](slides/2019-03-13_Xi_AutoDeepLab.pdf)]
 * [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
 	* Presenter: Hengtao [[slides](slides/2019-03-13_Hengtao_SelfAttentionGAN.pdf)]
 
