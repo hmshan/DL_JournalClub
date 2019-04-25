@@ -244,3 +244,11 @@
 	* Presenter: Zhao
 * [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
 	* Presenter: Fatir
+
+
+## April 24, 2019
+
+* [Learning to Summarize Radiology Findings](https://arxiv.org/abs/1809.04698)
+	* Presenter: Xi
+* [Auto-Keras: An Efficient Neural Architecture Search System](https://arxiv.org/abs/1806.10282)
+	* Presenter: Hengtao

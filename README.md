@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## April 24, 2019
-
-* [Learning to Summarize Radiology Findings](https://arxiv.org/abs/1809.04698)
-	* Presenter: Xi
-* [Auto-Keras: An Efficient Neural Architecture Search System](https://arxiv.org/abs/1806.10282)
-	* Presenter: Hengtao
-
 ## May 1, 2019
 
 * [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
