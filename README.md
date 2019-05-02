@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## May 1, 2019
-
-* [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
-	* Presenter: Fenglei
-* [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979)
-	* Presenter: Xue [[slides](slides/2019-05-01_Xue_DetNAS.pdf)]
-
 ## May 8, 2019
 
 * [Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420)
