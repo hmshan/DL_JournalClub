@@ -252,3 +252,11 @@
 	* Presenter: Xi
 * [Auto-Keras: An Efficient Neural Architecture Search System](https://arxiv.org/abs/1806.10282)
 	* Presenter: Hengtao
+
+
+## May 1, 2019
+
+* [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
+	* Presenter: Fenglei
+* [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979)
+	* Presenter: Xue [[slides](slides/2019-05-01_Xue_DetNAS.pdf)]
