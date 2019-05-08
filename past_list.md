@@ -260,3 +260,10 @@
 	* Presenter: Fenglei
 * [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979)
 	* Presenter: Xue [[slides](slides/2019-05-01_Xue_DetNAS.pdf)]
+
+## May 8, 2019
+
+* [Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420)
+	* Presenter: Qing [[slides](slides/2019-05-08_Qing_SPOSNASUS.pdf)]
+* [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960)
+	* Presenter: Hongming [[slides](slides/2019-05-08_Hongming_LDS.pdf)]

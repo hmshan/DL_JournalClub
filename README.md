@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## May 8, 2019
-
-* [Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420)
-	* Presenter: Qing
-* [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960)
-	* Presenter: Hongming
-
 ## May 15, 2019
 
 * [Learning to learn by gradient descent by gradient descent](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)
