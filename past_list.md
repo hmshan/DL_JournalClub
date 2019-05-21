@@ -267,3 +267,10 @@
 	* Presenter: Qing [[slides](slides/2019-05-08_Qing_SPOSNASUS.pdf)]
 * [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/abs/1903.11960)
 	* Presenter: Hongming [[slides](slides/2019-05-08_Hongming_LDS.pdf)]
+
+## May 15, 2019
+
+* [Learning to learn by gradient descent by gradient descent](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf)
+	* Presenter: Grant
+* [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/abs/1903.12174)
+	* Presenter: Qikui
