@@ -243,7 +243,7 @@
 * [Deep Learning for Automated Contouring of Primary Tumor Volumes by MRI for Nasopharyngeal Carcinoma](https://pubs.rsna.org/doi/10.1148/radiol.2019182012)
 	* Presenter: Zhao
 * [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
-	* Presenter: Fatir
+	* Presenter: Fatir [[slides](slides/2019-04-17_Fatir_GCN.pdf)]
 
 
 ## April 24, 2019
