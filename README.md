@@ -6,10 +6,51 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
+## May 29, 2019
 
-## May 22, 2019
+* [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://ieeexplore.ieee.org/abstract/document/7803544)
+	* Presenter: Zhao
+* [Dynamic Routing Between Capsules](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules)
+	* Presenter: Fatir
+ 
+## June 5, 2019
 
-* [Hierarchical Surface Prediction](https://ieeexplore.ieee.org/abstract/document/8630046)
+No meeting
+ 
+
+## June 12, 2019
+
+* [Unsupervised deep learning for Bayesian brain MRI segmentation](https://arxiv.org/abs/1904.11319)
+	* Presenter: Xi
+* [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/pdf/1902.09635.pdf)
+	* Presenter: Hengtao
+ 
+## June 19, 2019
+
+* [Graph U-NET](https://openreview.net/pdf?id=HJePRoAct7)
+	* Presenter: Xue
+* [Self-Attention Graph Pooling](https://arxiv.org/pdf/1904.08082.pdf)
+	* Presenter: Qing
+ 
+## June 26, 2019
+
+* [HexaGAN: Generative Adversarial Nets for Real World Classification](https://arxiv.org/pdf/1902.09913.pdf)
+	* Presenter: Hongming
+* [Simplifying Graph Convolutional Networks](https://arxiv.org/pdf/1902.07153.pdf)
+	* Presenter: Qikui
+ 
+## July 3, 2019
+
+No meeting
+ 
+## July 10, 2019
+
+* [Disentangled Graph Convolutional Networks](http://pengcui.thumedialab.com/papers/DisenGCN.pdf)
 	* Presenter: Mengzhou
-* [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)
+* [Deep Learning-Based Image Segmentation on Multimodal Medical Imaging](https://ieeexplore.ieee.org/document/8599078)
 	* Presenter: Huidong
+ 
+## July 17, 2019
+
+* [End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography](https://www.nature.com/articles/s41591-019-0447-x)
+	* Presenter: Jason

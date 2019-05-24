@@ -274,3 +274,10 @@
 	* Presenter: Grant
 * [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/abs/1903.12174)
 	* Presenter: Qikui
+
+## May 22, 2019
+
+* [Hierarchical Surface Prediction](https://ieeexplore.ieee.org/abstract/document/8630046)
+	* Presenter: Mengzhou [[slides](slides/2019-05-22_Mengzhou_HierarchicalSurfacePrediction.pdf)]
+* [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)
+	* Presenter: Huidong [[slides](slides/2019-05-22_Huidong_MetaPruning.pdf)]
