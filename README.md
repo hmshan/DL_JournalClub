@@ -6,12 +6,6 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## May 29, 2019
-
-* [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://ieeexplore.ieee.org/abstract/document/7803544)
-	* Presenter: Zhao
-* [Dynamic Routing Between Capsules](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules)
-	* Presenter: Fatir
  
 ## June 5, 2019
 

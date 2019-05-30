@@ -281,3 +281,10 @@
 	* Presenter: Mengzhou [[slides](slides/2019-05-22_Mengzhou_HierarchicalSurfacePrediction.pdf)]
 * [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)
 	* Presenter: Huidong [[slides](slides/2019-05-22_Huidong_MetaPruning.pdf)]
+
+## May 29, 2019
+
+* [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://ieeexplore.ieee.org/abstract/document/7803544)
+	* Presenter: Zhao
+* [Dynamic Routing Between Capsules](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules)
+	* Presenter: Fatir
