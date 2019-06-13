@@ -288,3 +288,10 @@
 	* Presenter: Zhao
 * [Dynamic Routing Between Capsules](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules)
 	* Presenter: Fatir
+
+## June 12, 2019
+
+* [Unsupervised deep learning for Bayesian brain MRI segmentation](https://arxiv.org/abs/1904.11319)
+	* Presenter: Xi
+* [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/pdf/1902.09635.pdf)
+	* Presenter: Hengtao
