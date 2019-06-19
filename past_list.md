@@ -295,3 +295,10 @@
 	* Presenter: Xi
 * [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/pdf/1902.09635.pdf)
 	* Presenter: Hengtao
+
+## June 19, 2019
+
+* [Graph U-NET](https://openreview.net/pdf?id=HJePRoAct7)
+	* Presenter: Xue [[slides](slides/2019-06-19_Xue_GraphUnet.pdf)]
+* [Self-Attention Graph Pooling](https://arxiv.org/pdf/1904.08082.pdf)
+	* Presenter: Qing [[slides](slides/2019-06-19_Qing_SAGPool.pdf)]

@@ -7,14 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
- 
-## June 19, 2019
-
-* [Graph U-NET](https://openreview.net/pdf?id=HJePRoAct7)
-	* Presenter: Xue
-* [Self-Attention Graph Pooling](https://arxiv.org/pdf/1904.08082.pdf)
-	* Presenter: Qing
- 
 ## June 26, 2019
 
 * [HexaGAN: Generative Adversarial Nets for Real World Classification](https://arxiv.org/pdf/1902.09913.pdf)
