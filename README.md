@@ -7,12 +7,7 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## June 26, 2019
 
-* [HexaGAN: Generative Adversarial Nets for Real World Classification](https://arxiv.org/pdf/1902.09913.pdf)
-	* Presenter: Hongming
-* [Simplifying Graph Convolutional Networks](https://arxiv.org/pdf/1902.07153.pdf)
-	* Presenter: Qikui
  
 ## July 3, 2019
 

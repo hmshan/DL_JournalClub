@@ -302,3 +302,10 @@
 	* Presenter: Xue [[slides](slides/2019-06-19_Xue_GraphUnet.pdf)]
 * [Self-Attention Graph Pooling](https://arxiv.org/pdf/1904.08082.pdf)
 	* Presenter: Qing [[slides](slides/2019-06-19_Qing_SAGPool.pdf)]
+
+## June 26, 2019
+
+* [HexaGAN: Generative Adversarial Nets for Real World Classification](https://arxiv.org/pdf/1902.09913.pdf)
+	* Presenter: Hongming [[slides](slides/2019-06-26_Hongming_HexaGAN.pdf)]
+* [Simplifying Graph Convolutional Networks](https://arxiv.org/pdf/1902.07153.pdf)
+	* Presenter: Qikui
