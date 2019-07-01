@@ -22,5 +22,5 @@ No meeting
  
 ## July 17, 2019
 
-* [End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography](https://www.nature.com/articles/s41591-019-0447-x)
+* [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
 	* Presenter: Jason
