@@ -309,3 +309,10 @@
 	* Presenter: Hongming [[slides](slides/2019-06-26_Hongming_HexaGAN.pdf)]
 * [Simplifying Graph Convolutional Networks](https://arxiv.org/pdf/1902.07153.pdf)
 	* Presenter: Qikui
+
+## July 10, 2019
+
+* [Disentangled Graph Convolutional Networks](http://pengcui.thumedialab.com/papers/DisenGCN.pdf)
+	* Presenter: Mengzhou [[slides](slides/2019-07-10_Mengzhou_DisenGCN.pdf)]
+* [Deep Learning-Based Image Segmentation on Multimodal Medical Imaging](https://ieeexplore.ieee.org/document/8599078)
+	* Presenter: Huidong [[slides](slides/2019-07-10_Huidong_MultimodalSegmentation.pdf)]

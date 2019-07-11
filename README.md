@@ -7,14 +7,12 @@
 ## The past journal club list can be found [here](past_list.md)
 
  
-## July 10, 2019
 
-* [Disentangled Graph Convolutional Networks](http://pengcui.thumedialab.com/papers/DisenGCN.pdf)
-	* Presenter: Mengzhou
-* [Deep Learning-Based Image Segmentation on Multimodal Medical Imaging](https://ieeexplore.ieee.org/document/8599078)
-	* Presenter: Huidong
  
 ## July 17, 2019
 
 * [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
 	* Presenter: Jason
+
+* [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf)
+	* Presenter: Fatir
