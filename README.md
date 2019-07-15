@@ -16,3 +16,11 @@
 
 * [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf)
 	* Presenter: Fatir
+
+## July 24, 2019
+
+* [Weight Agnostic Neural Networks](https://arxiv.org/pdf/1906.04358.pdf)
+	* Presenter: Hengtao
+
+* [Elastic Boundary Projection for 3D Medical Imaging Segmentation](https://arxiv.org/abs/1812.00518)
+	* Presenter: Xi
