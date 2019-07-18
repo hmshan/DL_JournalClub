@@ -320,6 +320,6 @@
 ## July 17, 2019
 
 * [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
-	* Presenter: Jason
+	* Presenter: Jason [[slides](slides/2019-07-17_Jason_InterpretingCNNsviaDecisionTrees.pdf)]
 * [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf)
-	* Presenter: Fatir
+	* Presenter: Fatir [[slides](slides/2019-07-17_Fatir_UDA.pdf)]
