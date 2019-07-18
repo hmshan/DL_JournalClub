@@ -316,3 +316,10 @@
 	* Presenter: Mengzhou [[slides](slides/2019-07-10_Mengzhou_DisenGCN.pdf)]
 * [Deep Learning-Based Image Segmentation on Multimodal Medical Imaging](https://ieeexplore.ieee.org/document/8599078)
 	* Presenter: Huidong [[slides](slides/2019-07-10_Huidong_MultimodalSegmentation.pdf)]
+
+## July 17, 2019
+
+* [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
+	* Presenter: Jason
+* [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf)
+	* Presenter: Fatir
