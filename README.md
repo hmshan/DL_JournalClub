@@ -8,14 +8,12 @@
 
 
 
-## July 24, 2019
 
-* [Weight Agnostic Neural Networks](https://arxiv.org/pdf/1906.04358.pdf)
-	* Presenter: Hengtao
-* [Elastic Boundary Projection for 3D Medical Imaging Segmentation](https://arxiv.org/abs/1812.00518)
-	* Presenter: Xi
 
 ## July 31, 2019
 
 * [Large Scale Adversarial Representation Learning](https://arxiv.org/pdf/1907.02544.pdf)
 	* Presenter: Hongming
+
+* [Deep Kalman Filtering Network for Video Compression Artifact Reduction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guo_Lu_Deep_Kalman_Filtering_ECCV_2018_paper.pdf)
+	* Presenter: Qing

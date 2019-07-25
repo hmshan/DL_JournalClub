@@ -323,3 +323,10 @@
 	* Presenter: Jason [[slides](slides/2019-07-17_Jason_InterpretingCNNsviaDecisionTrees.pdf)]
 * [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf)
 	* Presenter: Fatir [[slides](slides/2019-07-17_Fatir_UDA.pdf)]
+
+## July 24, 2019
+
+* [Weight Agnostic Neural Networks](https://arxiv.org/pdf/1906.04358.pdf)
+	* Presenter: Hengtao [[slides](slides/2019-07-24_Hengtao_WANN.pdf)]
+* [Elastic Boundary Projection for 3D Medical Imaging Segmentation](https://arxiv.org/abs/1812.00518)
+	* Presenter: Xi
