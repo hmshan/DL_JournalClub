@@ -329,4 +329,4 @@
 * [Weight Agnostic Neural Networks](https://arxiv.org/pdf/1906.04358.pdf)
 	* Presenter: Hengtao [[slides](slides/2019-07-24_Hengtao_WANN.pdf)]
 * [Elastic Boundary Projection for 3D Medical Imaging Segmentation](https://arxiv.org/abs/1812.00518)
-	* Presenter: Xi
+	* Presenter: Xi [[slides](slides/2019-07-24_Xi_EBP.pdf)]
