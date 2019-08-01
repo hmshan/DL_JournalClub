@@ -330,3 +330,12 @@
 	* Presenter: Hengtao [[slides](slides/2019-07-24_Hengtao_WANN.pdf)]
 * [Elastic Boundary Projection for 3D Medical Imaging Segmentation](https://arxiv.org/abs/1812.00518)
 	* Presenter: Xi [[slides](slides/2019-07-24_Xi_EBP.pdf)]
+
+
+
+## July 31, 2019
+
+* [Large Scale Adversarial Representation Learning](https://arxiv.org/pdf/1907.02544.pdf)
+	* Presenter: Hongming [[slides](slides/2019-07-31_Hongming_BigBiGAN.pdf)]
+* [Deep Kalman Filtering Network for Video Compression Artifact Reduction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guo_Lu_Deep_Kalman_Filtering_ECCV_2018_paper.pdf)
+	* Presenter: Qing [[slides](slides/2019-07-31_Qing_KalmanNet.pdf)]
