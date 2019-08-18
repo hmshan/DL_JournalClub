@@ -7,11 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## August 14, 2019
-
-No Journal Club
-
-
 ## August 21, 2019
 
 * [Semi-Supervised Learning with Scarce Annotations](https://arxiv.org/pdf/1905.08845.pdf)
