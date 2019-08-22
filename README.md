@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## August 21, 2019
-
-* [Semi-Supervised Learning with Scarce Annotations](https://arxiv.org/pdf/1905.08845.pdf)
-	* Presenter: Qikui
-* [Compositional GAN: Learning Image-Conditional Binary Composition](https://arxiv.org/abs/1807.07560)
-	* Presenter: Mengzhou
-
 
 ## August 28, 2019
 

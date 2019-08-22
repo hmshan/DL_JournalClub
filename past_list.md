@@ -339,3 +339,12 @@
 	* Presenter: Hongming [[slides](slides/2019-07-31_Hongming_BigBiGAN.pdf)]
 * [Deep Kalman Filtering Network for Video Compression Artifact Reduction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guo_Lu_Deep_Kalman_Filtering_ECCV_2018_paper.pdf)
 	* Presenter: Qing [[slides](slides/2019-07-31_Qing_KalmanNet.pdf)]
+
+## August 21, 2019
+
+* [Semi-Supervised Learning with Scarce Annotations](https://arxiv.org/pdf/1905.08845.pdf)
+	* Presenter: Qikui [[slides](slides/2019-08-21_Qikui_SSL.pdf)]
+* [Compositional GAN: Learning Image-Conditional Binary Composition](https://arxiv.org/abs/1807.07560)
+	* Presenter: Mengzhou [[slides](slides/2019-08-21_Mengzhou_CompositionalGAN.pdf)]
+
+	
