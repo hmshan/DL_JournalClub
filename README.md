@@ -36,5 +36,7 @@
 ## September 18, 2019
 
 * [Deep Information Theoretic Registration](https://arxiv.org/abs/1901.00040)
-	* Presenter: Grant
+	* Presenter: TBD
  
+* [Self-Supervised Representation Learning via Neighborhood-Relational Encoding](http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf)
+  * Presenter: TBD
