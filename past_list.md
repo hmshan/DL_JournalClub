@@ -347,4 +347,10 @@
 * [Compositional GAN: Learning Image-Conditional Binary Composition](https://arxiv.org/abs/1807.07560)
 	* Presenter: Mengzhou [[slides](slides/2019-08-21_Mengzhou_CompositionalGAN.pdf)]
 
-	
+## August 28, 2019
+
+
+* [DuDoNet: Dual Domain Network for CT Metal Artifact Reduction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_DuDoNet_Dual_Domain_Network_for_CT_Metal_Artifact_Reduction_CVPR_2019_paper.pdf)
+	* Presenter: Huidong [[slides](slides/2019-08-28_Huidong_DuDoNet.pdf)]
+* [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
+	* Presenter: Fatir [[slides](slides/2019-08-28_Fatir_RandomErasing.pdf)]

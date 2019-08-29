@@ -7,15 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-
-## August 28, 2019
-
-
-* [DuDoNet: Dual Domain Network for CT Metal Artifact Reduction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_DuDoNet_Dual_Domain_Network_for_CT_Metal_Artifact_Reduction_CVPR_2019_paper.pdf)
-	* Presenter: Huidong
-* [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
-	* Presenter: Fatir
-
 ## September 4, 2019
 
 
@@ -37,6 +28,5 @@
 
 * [Deep Information Theoretic Registration](https://arxiv.org/abs/1901.00040)
 	* Presenter: TBD
- 
 * [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
   * Presenter: TBD
