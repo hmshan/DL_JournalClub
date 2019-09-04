@@ -354,3 +354,11 @@
 	* Presenter: Huidong [[slides](slides/2019-08-28_Huidong_DuDoNet.pdf)]
 * [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
 	* Presenter: Fatir [[slides](slides/2019-08-28_Fatir_RandomErasing.pdf)]
+
+## September 4, 2019
+
+
+* [Multiview 2D/3D Rigid Registration via a Point-Of-Interest Network for Tracking and Triangulation](https://arxiv.org/pdf/1903.03896.pdf)
+	* Presenter: Hengtao [[slides](slides/2019-09-04_Hengtao_POINT2.pdf)]
+* [Self-supervised learning for medical image analysis using image context restoration](https://www.sciencedirect.com/science/article/pii/S1361841518304699)
+	* Presenter: Xi [[slides](slides/2019-09-04_Xi_Self_CR.pdf)]

@@ -7,14 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## September 4, 2019
-
-
-* [Multiview 2D/3D Rigid Registration via a Point-Of-Interest Network for Tracking and Triangulation](https://arxiv.org/pdf/1903.03896.pdf)
-	* Presenter: Hengtao
-* [Self-supervised learning for medical image analysis using image context restoration](https://www.sciencedirect.com/science/article/pii/S1361841518304699)
-	* Presenter: Xi
- 
 ## September 11, 2019
 
 
