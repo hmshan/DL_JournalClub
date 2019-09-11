@@ -362,3 +362,12 @@
 	* Presenter: Hengtao [[slides](slides/2019-09-04_Hengtao_POINT2.pdf)]
 * [Self-supervised learning for medical image analysis using image context restoration](https://www.sciencedirect.com/science/article/pii/S1361841518304699)
 	* Presenter: Xi [[slides](slides/2019-09-04_Xi_Self_CR.pdf)]
+
+
+## September 11, 2019
+
+
+* [Data-efficient image recognition with contrastive predictive coding](https://arxiv.org/abs/1905.09272)
+	* Presenter: Hongming [[slides](slides/2019-09-11_Hongming_CPC.pdf)]
+* [Video Enhancement with Task-Oriented Flow](https://link.springer.com/article/10.1007/s11263-018-01144-2)
+	* Presenter: Qing [[slides](slides/2019-09-11_Qing_TOFlow.pdf)]
