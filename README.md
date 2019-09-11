@@ -19,6 +19,6 @@
 ## September 18, 2019
 
 * [Deep Information Theoretic Registration](https://arxiv.org/abs/1901.00040)
-	* Presenter: TBD
+	* Presenter: Hengtao
 * [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
-  * Presenter: TBD
+  * Presenter: Xi
