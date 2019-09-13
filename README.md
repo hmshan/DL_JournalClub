@@ -18,7 +18,7 @@
 ## September 25, 2019
 
 * [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
-	* Presenter: Mengzhou
+	* Presenter: Pingkun
 * [Edge-Labeling Graph Neural Network for Few-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
   	* Presenter: Qikui
 
