@@ -6,8 +6,11 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-
 ## September 18, 2019
+
+No meeting.
+
+## September 25, 2019
 
 * [Deep Information Theoretic Registration](https://arxiv.org/abs/1901.00040)
 	* Presenter: Hengtao
@@ -15,7 +18,7 @@
   	* Presenter: Xi
 
 
-## September 25, 2019
+## October 2, 2019
 
 * [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
 	* Presenter: Pingkun
@@ -23,7 +26,7 @@
   	* Presenter: Qikui
 
 
-## October 2, 2019
+## October 9, 2019
 
 * [Generating Classification Weights with GNN Denoising Autoencoders for
 Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris_Generating_Classification_Weights_With_GNN_Denoising_Autoencoders_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
@@ -32,7 +35,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
   	* Presenter: Imee
 
 
-## October 9, 2019
+## October 16, 2019
 
 * [Shuffle and Learn: Unsupervised Learning using Temporal Order Verification](https://arxiv.org/pdf/1603.08561.pdf)
 	* Presenter: Huidong
@@ -40,7 +43,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
   	* Presenter: Fatir
 
 
-## October 16, 2019
+## October 23, 2019
 
 * [Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics](https://arxiv.org/abs/1904.03597)
 	* Presenter: Qing
@@ -48,7 +51,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
   	* Presenter: Hongming
 
 
-## October 23, 2019
+## October 30, 2019
 
 * [Learning Features by Watching Objects Move](https://arxiv.org/abs/1612.06370)
 	* Presenter: Chris
@@ -56,7 +59,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
   	* Presenter: Huihua
 
 
-## October 30, 2019
+## November 6, 2019
 
 * [Networks for Joint Affine and Non-parametric Image Registration](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Networks_for_Joint_Affine_and_Non-Parametric_Image_Registration_CVPR_2019_paper.pdf)
 	* Presenter: Hengtao
