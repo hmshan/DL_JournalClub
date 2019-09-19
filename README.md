@@ -6,9 +6,6 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## September 18, 2019
-
-No meeting.
 
 ## September 25, 2019
 
