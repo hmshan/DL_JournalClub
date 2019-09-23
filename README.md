@@ -9,18 +9,18 @@
 
 ## September 25, 2019
 
-* [Deep Information Theoretic Registration](https://arxiv.org/abs/1901.00040)
-	* Presenter: Hengtao
+* [Edge-Labeling Graph Neural Network for Few-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
+  	* Presenter: Qikui
 * [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
   	* Presenter: Xi
 
 
 ## October 2, 2019
 
+* [Deep Information Theoretic Registration](https://arxiv.org/abs/1901.00040)
+	* Presenter: Hengtao
 * [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
 	* Presenter: Pingkun
-* [Edge-Labeling Graph Neural Network for Few-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
-  	* Presenter: Qikui
 
 
 ## October 9, 2019
