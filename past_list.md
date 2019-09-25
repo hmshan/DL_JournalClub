@@ -371,3 +371,11 @@
 	* Presenter: Hongming [[slides](slides/2019-09-11_Hongming_CPC.pdf)]
 * [Video Enhancement with Task-Oriented Flow](https://link.springer.com/article/10.1007/s11263-018-01144-2)
 	* Presenter: Qing [[slides](slides/2019-09-11_Qing_TOFlow.pdf)]
+
+
+## September 25, 2019
+
+* [Edge-Labeling Graph Neural Network for Few-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
+  	* Presenter: Qikui [[slides](slides/2019-09-25_Qikui_EGNN.pdf)]
+* [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
+  	* Presenter: Xi [[slides](slides/2019-09-25_Xi_Exp_SS.pdf)]
