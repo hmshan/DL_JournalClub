@@ -379,3 +379,11 @@
   	* Presenter: Qikui [[slides](slides/2019-09-25_Qikui_EGNN.pdf)]
 * [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
   	* Presenter: Xi [[slides](slides/2019-09-25_Xi_Exp_SS.pdf)]
+
+
+## October 2, 2019
+
+* [Deep Information Theoretic Registration](https://arxiv.org/abs/1901.00040)
+	* Presenter: Hengtao
+* [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
+	* Presenter: Pingkun

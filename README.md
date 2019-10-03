@@ -7,14 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## October 2, 2019
-
-* [Deep Information Theoretic Registration](https://arxiv.org/abs/1901.00040)
-	* Presenter: Hengtao
-* [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
-	* Presenter: Pingkun
-
-
 ## October 9, 2019
 
 * [Generating Classification Weights with GNN Denoising Autoencoders for
@@ -36,8 +28,8 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 * [Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics](https://arxiv.org/abs/1904.03597)
 	* Presenter: Qing
-* [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/pdf/1905.03670.pdf)
-  	* Presenter: Hongming
+* [Neural Ordinary Differential Equations](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations.pdf)
+  	* Presenter: Fenglei
 
 
 ## October 30, 2019
