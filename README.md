@@ -18,13 +18,21 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 ## October 16, 2019
 
+No meeting.
+
+## October 23, 2019
+
+No meeting.
+
+## October 30, 2019
+
 * [Shuffle and Learn: Unsupervised Learning using Temporal Order Verification](https://arxiv.org/pdf/1603.08561.pdf)
 	* Presenter: Huidong
 * [Colorful Image Colorization](https://arxiv.org/pdf/1603.08511.pdf)
   	* Presenter: Fatir
 
 
-## October 23, 2019
+## November 6, 2019
 
 * [Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics](https://arxiv.org/abs/1904.03597)
 	* Presenter: Qing
@@ -32,7 +40,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
   	* Presenter: Fenglei
 
 
-## October 30, 2019
+## November 13, 2019
 
 * [Learning Features by Watching Objects Move](https://arxiv.org/abs/1612.06370)
 	* Presenter: Chris
@@ -40,7 +48,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
   	* Presenter: Huihua
 
 
-## November 6, 2019
+## November 20, 2019
 
 * [Networks for Joint Affine and Non-parametric Image Registration](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Networks_for_Joint_Affine_and_Non-Parametric_Image_Registration_CVPR_2019_paper.pdf)
 	* Presenter: Hengtao
