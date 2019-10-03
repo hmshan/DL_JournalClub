@@ -384,6 +384,6 @@
 ## October 2, 2019
 
 * [Deep Information Theoretic Registration](https://arxiv.org/abs/1901.00040)
-	* Presenter: Hengtao
+	* Presenter: Hengtao [[slides](slides/2019-10-02_Hengtao_IML.pdf)]
 * [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
 	* Presenter: Pingkun
