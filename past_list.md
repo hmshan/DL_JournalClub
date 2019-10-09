@@ -387,3 +387,9 @@
 	* Presenter: Hengtao [[slides](slides/2019-10-02_Hengtao_IML.pdf)]
 * [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
 	* Presenter: Pingkun [[slides](slides/2019-10-02_Pingkun_MatchingNet.pdf)]
+
+## October 9, 2019
+
+* [Generating Classification Weights with GNN Denoising Autoencoders for
+Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris_Generating_Classification_Weights_With_GNN_Denoising_Autoencoders_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
+	* Presenter: Hanqing [[slides](slides/2019-10-09_Hanqing_DAE_GNN_FL.pdf)]
