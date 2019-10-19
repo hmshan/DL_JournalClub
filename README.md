@@ -8,10 +8,6 @@
 
 
 
-## October 16, 2019
-
-No meeting.
-
 ## October 23, 2019
 
 No meeting.
