@@ -8,10 +8,6 @@
 
 
 
-## October 23, 2019
-
-No meeting.
-
 ## October 30, 2019
 
 * [Shuffle and Learn: Unsupervised Learning using Temporal Order Verification](https://arxiv.org/pdf/1603.08561.pdf)
