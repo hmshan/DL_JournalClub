@@ -7,15 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-
-## October 30, 2019
-
-* [Shuffle and Learn: Unsupervised Learning using Temporal Order Verification](https://arxiv.org/pdf/1603.08561.pdf)
-	* Presenter: Huidong
-* [Colorful Image Colorization](https://arxiv.org/pdf/1603.08511.pdf)
-  	* Presenter: Fatir
-
-
 ## November 6, 2019
 
 * [Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics](https://arxiv.org/abs/1904.03597)
