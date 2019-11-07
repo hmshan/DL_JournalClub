@@ -7,14 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## November 6, 2019
-
-* [Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics](https://arxiv.org/abs/1904.03597)
-	* Presenter: Qing
-* [Neural Ordinary Differential Equations](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations.pdf)
-  	* Presenter: Fenglei
-
-
 ## November 13, 2019
 
 * [Learning Features by Watching Objects Move](https://arxiv.org/abs/1612.06370)

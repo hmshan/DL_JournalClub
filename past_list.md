@@ -400,3 +400,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Huidong
 * [Colorful Image Colorization](https://arxiv.org/pdf/1603.08511.pdf)
   	* Presenter: Fatir
+
+## November 6, 2019
+
+* [Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics](https://arxiv.org/abs/1904.03597)
+	* Presenter: Qing
+* [Neural Ordinary Differential Equations](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations.pdf)
+  	* Presenter: Fenglei
