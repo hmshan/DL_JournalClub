@@ -407,3 +407,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Qing
 * [Neural Ordinary Differential Equations](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations.pdf)
   	* Presenter: Fenglei
+
+## November 13, 2019
+
+* [Learning Features by Watching Objects Move](https://arxiv.org/abs/1612.06370)
+	* Presenter: Chris
+* [Discriminative Unsupervised Feature Learning with Convolutional Neural Networks](https://papers.nips.cc/paper/5548-discriminative-unsupervised-feature-learning-with-convolutional-neural-networks.pdf)
+  	* Presenter: Huihua
