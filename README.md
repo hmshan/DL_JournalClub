@@ -17,13 +17,18 @@
 
 ## January 15, 2020
 
+No meeting. 
+
+
+## January 22, 2020
+
 * [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/pdf/1812.02833.pdf)
 	* Presenter: Hongming
 * [LOGAN: Latent Optimisation for Generative Adversarial Networks](https://arxiv.org/abs/1912.00953)
 	* Presenter: Qing
  
 
-## January 22, 2020
+## January 29, 2020
 
 * [Multi-source Domain Adaptation for Semantic Segmentation](https://papers.nips.cc/paper/8949-multi-source-domain-adaptation-for-semantic-segmentation.pdf)
 	* Presenter: Huihua
@@ -31,7 +36,7 @@
 	* Presenter: Hanqing
 
 
-## January 29, 2020
+## February 5, 2020
 
 * [Deep Self-Learning From Noisy Labels](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
 	* Presenter: Fatir
@@ -39,7 +44,7 @@
 	* Presenter: Chris
 
 
-## February 5, 2020
+## February 12, 2020
 
 * [Attention Augmented Convolutional Networks](http://openaccess.thecvf.com/content_ICCV_2019/html/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.html)
 	* Presenter: Qiyun
@@ -47,7 +52,7 @@
 	* Presenter: Huidong
 
  
-## February 12, 2020
+## February 19, 2020
 
 * [Hierarchy Parsing for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_Hierarchy_Parsing_for_Image_Captioning_ICCV_2019_paper.pdf)
 	* Presenter: Nneka
@@ -55,7 +60,7 @@
 	* Presenter: Mengzhou
 
 
-## February 19, 2020
+## February 26, 2020
 
 * [ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction](https://ieeexplore.ieee.org/document/8788607)
 	* Presenter: Chuang
@@ -63,7 +68,7 @@
 	* Presenter: Hongming
 
 
-## February 26, 2020
+## March 4, 2020
 
 * [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](http://proceedings.mlr.press/v97/locatello19a/locatello19a.pdf)
 	* Presenter: Hanqing
