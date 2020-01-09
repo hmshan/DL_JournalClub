@@ -418,6 +418,14 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## November 20, 2019
 
 * [Networks for Joint Affine and Non-parametric Image Registration](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Networks_for_Joint_Affine_and_Non-Parametric_Image_Registration_CVPR_2019_paper.pdf)
-	* Presenter: Hengtao
+	* Presenter: Hengtao [[slides](slides/2019-11-20_Hengtao_AVSM.pdf)]
 * [SCOPS: Self-Supervised Co-Part Segmentation](https://arxiv.org/abs/1905.01298)
   	* Presenter: Xi
+
+
+## January 8, 2020
+
+* [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
+	* Presenter: Xi
+* [Towards a Definition of Disentangled Representations](https://arxiv.org/pdf/1812.02230.pdf)
+	* Presenter: Hengtao [[slides](slides/2020-01-08_Hengtao_Disentangled_Representation.pdf)]

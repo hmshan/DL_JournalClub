@@ -7,12 +7,7 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## January 8, 2020
 
-* [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
-	* Presenter: Xi
-* [Towards a Definition of Disentangled Representations](https://arxiv.org/pdf/1812.02230.pdf)
-	* Presenter: Hengtao
 
 
 ## January 15, 2020
