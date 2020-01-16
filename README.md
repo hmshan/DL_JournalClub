@@ -8,13 +8,6 @@
 
 
 
-
-
-## January 15, 2020
-
-No meeting. 
-
-
 ## January 22, 2020
 
 * [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/pdf/1812.02833.pdf)
