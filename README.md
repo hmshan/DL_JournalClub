@@ -10,7 +10,7 @@
 
 ## January 22, 2020
 
-* [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/pdf/1812.02833.pdf)
+* [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)
 	* Presenter: Hongming
 * [LOGAN: Latent Optimisation for Generative Adversarial Networks](https://arxiv.org/abs/1912.00953)
 	* Presenter: Qing
