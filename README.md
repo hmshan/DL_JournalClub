@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-
-## January 29, 2020
-
-* [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)
-	* Presenter: Hongming [[slides](slides/2020-01-22_Hongming_VAE.pdf)]
-* [LOGAN: Latent Optimisation for Generative Adversarial Networks](https://arxiv.org/abs/1912.00953)
-	* Presenter: Qing
  
 
 ## February 5, 2020

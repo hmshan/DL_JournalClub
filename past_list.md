@@ -429,3 +429,11 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Xi
 * [Towards a Definition of Disentangled Representations](https://arxiv.org/pdf/1812.02230.pdf)
 	* Presenter: Hengtao [[slides](slides/2020-01-08_Hengtao_Disentangled_Representation.pdf)]
+
+
+## January 29, 2020
+
+* [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)
+	* Presenter: Hongming [[slides](slides/2020-01-22_Hongming_VAE.pdf)]
+* [LOGAN: Latent Optimisation for Generative Adversarial Networks](https://arxiv.org/abs/1912.00953)
+	* Presenter: Qing [[slides](slides/2020-01-29_Qing_LOGAN.pdf)]
