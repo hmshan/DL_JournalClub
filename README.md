@@ -8,15 +8,6 @@
 
 
  
-
-## February 5, 2020
-
-* [Multi-source Domain Adaptation for Semantic Segmentation](https://papers.nips.cc/paper/8949-multi-source-domain-adaptation-for-semantic-segmentation.pdf)
-	* Presenter: Huihua
-* [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf)
-	* Presenter: Hanqing
-
-
 ## February 12, 2020
 
 * [Deep Self-Learning From Noisy Labels](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)

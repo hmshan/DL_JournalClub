@@ -437,3 +437,11 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Hongming [[slides](slides/2020-01-22_Hongming_VAE.pdf)]
 * [LOGAN: Latent Optimisation for Generative Adversarial Networks](https://arxiv.org/abs/1912.00953)
 	* Presenter: Qing [[slides](slides/2020-01-29_Qing_LOGAN.pdf)]
+
+
+## February 5, 2020
+
+* [Multi-source Domain Adaptation for Semantic Segmentation](https://papers.nips.cc/paper/8949-multi-source-domain-adaptation-for-semantic-segmentation.pdf)
+	* Presenter: Huihua [[slides](slides/2020-02-05_Huihua_MSDA.pdf)]
+* [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf)
+	* Presenter: Hanqing
