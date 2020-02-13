@@ -7,15 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
- 
-## February 12, 2020
-
-* [Deep Self-Learning From Noisy Labels](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
-	* Presenter: Fatir
-* [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670)
-	* Presenter: Chris
-
-
 ## February 19, 2020
 
 * [Attention Augmented Convolutional Networks](http://openaccess.thecvf.com/content_ICCV_2019/html/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.html)

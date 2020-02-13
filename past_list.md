@@ -445,3 +445,11 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Huihua [[slides](slides/2020-02-05_Huihua_MSDA.pdf)]
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf)
 	* Presenter: Hanqing [[slides](slides/2020-02-05_Hanqing_MoCo.pdf)]
+
+
+## February 12, 2020
+
+* [Deep Self-Learning From Noisy Labels](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
+	* Presenter: Fatir
+* [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670)
+	* Presenter: Chris [[slides](slides/2020-02-12_Chris_S4L.pdf)]
