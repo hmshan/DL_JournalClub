@@ -450,6 +450,6 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## February 12, 2020
 
 * [Deep Self-Learning From Noisy Labels](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
-	* Presenter: Fatir
+	* Presenter: Fatir [[slides](slides/2020-02-12_Fatir_NoisyLabels.pdf)]
 * [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670)
 	* Presenter: Chris [[slides](slides/2020-02-12_Chris_S4L.pdf)]
