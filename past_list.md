@@ -453,3 +453,11 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Fatir [[slides](slides/2020-02-12_Fatir_NoisyLabels.pdf)]
 * [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670)
 	* Presenter: Chris [[slides](slides/2020-02-12_Chris_S4L.pdf)]
+
+
+## February 19, 2020
+
+* [Attention Augmented Convolutional Networks](http://openaccess.thecvf.com/content_ICCV_2019/html/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.html)
+	* Presenter: Qiyun
+* [Many Task Learning With Task Routing](http://openaccess.thecvf.com/content_ICCV_2019/html/Strezoski_Many_Task_Learning_With_Task_Routing_ICCV_2019_paper.html)
+	* Presenter: Huidong [[slides](slides/2020-02-19_Huidong_MTL.pdf)]

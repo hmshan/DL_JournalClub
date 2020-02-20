@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## February 19, 2020
-
-* [Attention Augmented Convolutional Networks](http://openaccess.thecvf.com/content_ICCV_2019/html/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.html)
-	* Presenter: Qiyun
-* [Many Task Learning With Task Routing](http://openaccess.thecvf.com/content_ICCV_2019/html/Strezoski_Many_Task_Learning_With_Task_Routing_ICCV_2019_paper.html)
-	* Presenter: Huidong
-
  
 ## February 26, 2020
 
