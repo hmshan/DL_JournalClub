@@ -458,6 +458,6 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## February 19, 2020
 
 * [Attention Augmented Convolutional Networks](http://openaccess.thecvf.com/content_ICCV_2019/html/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.html)
-	* Presenter: Qiyun
+	* Presenter: Qiyun [[slides](slides/2020-02-19_Qiyun_AttConv.pdf)]
 * [Many Task Learning With Task Routing](http://openaccess.thecvf.com/content_ICCV_2019/html/Strezoski_Many_Task_Learning_With_Task_Routing_ICCV_2019_paper.html)
 	* Presenter: Huidong [[slides](slides/2020-02-19_Huidong_MTL.pdf)]
