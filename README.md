@@ -7,15 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
- 
-## February 26, 2020
-
-* [Hierarchy Parsing for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_Hierarchy_Parsing_for_Image_Captioning_ICCV_2019_paper.pdf)
-	* Presenter: Nneka
-* [Distillation-Based Training for Multi-Exit Architectures](http://openaccess.thecvf.com/content_ICCV_2019/html/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.html)
-	* Presenter: Mengzhou
-
-
 ## March 4, 2020
 
 * [ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction](https://ieeexplore.ieee.org/document/8788607)

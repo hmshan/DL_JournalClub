@@ -461,3 +461,9 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Qiyun [[slides](slides/2020-02-19_Qiyun_AttConv.pdf)]
 * [Many Task Learning With Task Routing](http://openaccess.thecvf.com/content_ICCV_2019/html/Strezoski_Many_Task_Learning_With_Task_Routing_ICCV_2019_paper.html)
 	* Presenter: Huidong [[slides](slides/2020-02-19_Huidong_MTL.pdf)]
+
+
+## February 26, 2020
+
+* [Distillation-Based Training for Multi-Exit Architectures](http://openaccess.thecvf.com/content_ICCV_2019/html/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.html)
+	* Presenter: Mengzhou
