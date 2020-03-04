@@ -6,8 +6,15 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-
 ## March 4, 2020
+
+No meeting.
+
+## March 11, 2020
+
+No meeting.
+
+## March 18, 2020
 
 * [ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction](https://ieeexplore.ieee.org/document/8788607)
 	* Presenter: Chuang
@@ -15,7 +22,7 @@
 	* Presenter: Hongming
 
 
-## March 11, 2020
+## March 25, 2020
 
 * [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](http://proceedings.mlr.press/v97/locatello19a/locatello19a.pdf)
 	* Presenter: Hanqing
