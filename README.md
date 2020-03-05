@@ -6,9 +6,6 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## March 4, 2020
-
-No meeting.
 
 ## March 11, 2020
 
