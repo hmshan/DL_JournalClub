@@ -7,10 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## March 11, 2020
-
-No meeting.
-
 ## March 18, 2020
 
 * [ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction](https://ieeexplore.ieee.org/document/8788607)
