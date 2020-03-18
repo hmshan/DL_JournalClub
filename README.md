@@ -1,18 +1,11 @@
 
 # [Biomedical Imaging Center](http://biotech.rpi.edu/centers/bic) Deep Learning Journal Club
 
-* Location: 3rd Floor Oxbridge Room
-* Time: Wednesday, 16:00 -- 17:00
+* Location: Webex Room
+* Time: Wednesday, 10:00 -- 11:00
 
 ## The past journal club list can be found [here](past_list.md)
 
-
-## March 18, 2020
-
-* [ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction](https://ieeexplore.ieee.org/document/8788607)
-	* Presenter: Chuang
-* [Putting An End to End-to-End: Gradient-Isolated Learning of Representations](http://papers.nips.cc/paper/8568-putting-an-end-to-end-to-end-gradient-isolated-learning-of-representations.pdf)
-	* Presenter: Hongming
 
 
 ## March 25, 2020

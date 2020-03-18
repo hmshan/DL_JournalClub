@@ -467,3 +467,11 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 * [Distillation-Based Training for Multi-Exit Architectures](http://openaccess.thecvf.com/content_ICCV_2019/html/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.html)
 	* Presenter: Mengzhou
+
+
+## March 18, 2020
+
+* [ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction](https://ieeexplore.ieee.org/document/8788607)
+	* Presenter: Chuang [[slides](slides/2020-03-18_Chuang_DAN.pdf)]
+* [Putting An End to End-to-End: Gradient-Isolated Learning of Representations](http://papers.nips.cc/paper/8568-putting-an-end-to-end-to-end-gradient-isolated-learning-of-representations.pdf)
+	* Presenter: Hongming [[slides](slides/2020-03-18_Hongming_GIM.pdf)]
