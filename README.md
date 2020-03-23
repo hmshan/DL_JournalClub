@@ -8,7 +8,7 @@
 
 
 
-## March 25, 2020
+## April 1, 2020
 
 * [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](http://proceedings.mlr.press/v97/locatello19a/locatello19a.pdf)
 	* Presenter: Hanqing
