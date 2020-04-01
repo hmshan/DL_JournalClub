@@ -475,3 +475,11 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Chuang [[slides](slides/2020-03-18_Chuang_DAN.pdf)]
 * [Putting An End to End-to-End: Gradient-Isolated Learning of Representations](http://papers.nips.cc/paper/8568-putting-an-end-to-end-to-end-gradient-isolated-learning-of-representations.pdf)
 	* Presenter: Hongming [[slides](slides/2020-03-18_Hongming_GIM.pdf)]
+
+
+## April 1, 2020
+
+* [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](http://proceedings.mlr.press/v97/locatello19a/locatello19a.pdf)
+	* Presenter: Hanqing [[slides](slides/2020-04-01_Hanqing_Disentanglement.pdf)]
+* [SinGAN: Learning a Generative Model From a Single Natural Image](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf)
+	* Presenter: Qing [[slides](slides/2020-04-01_Qing_SinGAN.pdf)]
