@@ -483,3 +483,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Hanqing [[slides](slides/2020-04-01_Hanqing_Disentanglement.pdf)]
 * [SinGAN: Learning a Generative Model From a Single Natural Image](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf)
 	* Presenter: Qing [[slides](slides/2020-04-01_Qing_SinGAN.pdf)]
+
+
+## April 8, 2020
+* [ShapeMask: Learning to Segment Novel Objects by Refining Shape Prior](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuo_ShapeMask_Learning_to_Segment_Novel_Objects_by_Refining_Shape_Priors_ICCV_2019_paper.pdf)
+	* Presenter: Xi [[slides](slides/2020-04-08_Xi_ShapeMask.pdf)]
+* [Models genesis: Generic autodidactic models for 3D medical image analysis](https://arxiv.org/abs/1908.06912)
+	* Presenter: Hengtao [[slides](slides/2020-04-08_Hengtao_ModelGenesis.pdf)]

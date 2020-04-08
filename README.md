@@ -6,11 +6,7 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## April 8, 2020
-* [ShapeMask: Learning to Segment Novel Objects by Refining Shape Prior](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuo_ShapeMask_Learning_to_Segment_Novel_Objects_by_Refining_Shape_Priors_ICCV_2019_paper.pdf)
-	* Presenter: Xi 
-* [Models genesis: Generic autodidactic models for 3D medical image analysis](https://arxiv.org/abs/1908.06912)
-	* Presenter: Hengtao 
+
 
 
 ## April 15, 2020
