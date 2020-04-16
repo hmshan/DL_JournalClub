@@ -9,13 +9,6 @@
 
 
 
-## April 15, 2020
-* [What’s Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
-	* Presenter: Huihua 
-* [Unsupervised Domain Adaptation through Self-Supervision](https://arxiv.org/abs/1909.11825)
-	* Presenter: Fatir 
-
-
 ## April 22, 2020
 * [SkipNet: Learning Dynamic Routing in Convolutional Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Xin_Wang_SkipNet_Learning_Dynamic_ECCV_2018_paper.html)
 	* Presenter: Qiyun 

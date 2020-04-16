@@ -490,3 +490,12 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Xi [[slides](slides/2020-04-08_Xi_ShapeMask.pdf)]
 * [Models genesis: Generic autodidactic models for 3D medical image analysis](https://arxiv.org/abs/1908.06912)
 	* Presenter: Hengtao [[slides](slides/2020-04-08_Hengtao_ModelGenesis.pdf)]
+
+
+
+## April 15, 2020
+* [What’s Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
+	* Presenter: Huihua [[slides](slides/2020-04-15_Huihua_Edgepopup.pdf)]
+* [Unsupervised Domain Adaptation through Self-Supervision](https://arxiv.org/abs/1909.11825)
+	* Presenter: Fatir 
+
