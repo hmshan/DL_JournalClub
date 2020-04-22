@@ -499,3 +499,6 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 * [Unsupervised Domain Adaptation through Self-Supervision](https://arxiv.org/abs/1909.11825)
 	* Presenter: Fatir 
 
+## April 22, 2020
+* [A simple framework for contrastive learning of visual representations](https://arxiv.org/abs/2002.05709)
+	* Presenter: Chris 
