@@ -501,4 +501,4 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 ## April 22, 2020
 * [A simple framework for contrastive learning of visual representations](https://arxiv.org/abs/2002.05709)
-	* Presenter: Chris 
+	* Presenter: Chris [[slides](slides/2020-04-22_Chris_SimCLR.pdf)]
