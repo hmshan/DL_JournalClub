@@ -507,3 +507,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 * [UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation](https://arxiv.org/pdf/1912.05074)
 	* Presenter: Chuang [[slides](slides/2020-05-06_Chuang_UNet++.pdf)]
+
+
+## May 13, 2020
+* [SROBB: Targeted Perceptual Loss for Single Image Super-Resolution](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rad_SROBB_Targeted_Perceptual_Loss_for_Single_Image_Super-Resolution_ICCV_2019_paper.pdf)
+	* Presenter: Mengzhou [[slides](slides/2020-05-13_Mengzhou_SROBB.pdf)]
+* [Stacked spatio-temporal graph convolutional networks for action segmentation](http://openaccess.thecvf.com/content_WACV_2020/papers/Ghosh_Stacked_Spatio-Temporal_Graph_Convolutional_Networks_for_Action_Segmentation_WACV_2020_paper.pdf)
+	* Presenter: Huidong [[slides](slides/2020-05-13_Huidong_STGCN.pdf)]
