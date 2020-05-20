@@ -514,3 +514,11 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Mengzhou [[slides](slides/2020-05-13_Mengzhou_SROBB.pdf)]
 * [Stacked spatio-temporal graph convolutional networks for action segmentation](http://openaccess.thecvf.com/content_WACV_2020/papers/Ghosh_Stacked_Spatio-Temporal_Graph_Convolutional_Networks_for_Action_Segmentation_WACV_2020_paper.pdf)
 	* Presenter: Huidong [[slides](slides/2020-05-13_Huidong_STGCN.pdf)]
+
+
+
+## May 20, 2020
+* [Stacked Capsule Autoencoders](https://www.cs.toronto.edu/~hinton/absps/capsules2019.pdf)
+	* Presenter: Hongming [[slides](slides/2020-05-20_Hongming_SCAE.pdf)]
+* [Disentangling Propagation and Generation for Video Prediction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf)
+	* Presenter: Yuanyuan [[slides](slides/2020-05-20_Yuanyuan_Disentangling.pdf)]
