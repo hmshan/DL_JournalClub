@@ -521,4 +521,4 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 * [Stacked Capsule Autoencoders](https://www.cs.toronto.edu/~hinton/absps/capsules2019.pdf)
 	* Presenter: Hongming [[slides](slides/2020-05-20_Hongming_SCAE.pdf)]
 * [Disentangling Propagation and Generation for Video Prediction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf)
-	* Presenter: Yuanyuan [[slides](slides/2020-05-20_Yuanyuan_Disentangling.pdf)]
+	* Presenter: Yuanyuan [[slides](slides/2020-05-20_Yuanyuan_Distangling.pdf)]
