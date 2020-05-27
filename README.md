@@ -7,11 +7,7 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## May 27, 2020
-* [Verification of non-linear specifications for neural networks](https://arxiv.org/pdf/1902.09592.pdf)
-	* Presenter: Hanqing 
-* [Learning Correspondence from the Cycle-Consistency of Time](https://ajabri.github.io/timecycle/)
-	* Presenter: Qing 
+
 
 
 ## June 3, 2020

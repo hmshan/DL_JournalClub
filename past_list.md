@@ -522,3 +522,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Hongming [[slides](slides/2020-05-20_Hongming_SCAE.pdf)]
 * [Disentangling Propagation and Generation for Video Prediction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf)
 	* Presenter: Yuanyuan [[slides](slides/2020-05-20_Yuanyuan_Distangling.pdf)]
+
+
+## May 27, 2020
+* [Verification of non-linear specifications for neural networks](https://arxiv.org/pdf/1902.09592.pdf)
+	* Presenter: Hanqing [[slides](slides/2020-05-27_Hanqing_Specification.pdf)]
+* [Learning Correspondence from the Cycle-Consistency of Time](https://ajabri.github.io/timecycle/)
+	* Presenter: Qing [[slides](https://www.dropbox.com/s/3o2w4e57vs1vcl8/cvpr19_oral_v11.pptx?dl=0)]
