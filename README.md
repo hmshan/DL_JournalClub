@@ -10,8 +10,3 @@
 
 
 
-## June 3, 2020
-* [Large-Scale Screening of COVID-19 from Community Acquired Pneumonia using Infection Size-Aware Classification](https://arxiv.org/abs/2003.09860)
-	* Presenter: Xiaodong
-* [SkipNet: Learning Dynamic Routing in Convolutional Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Xin_Wang_SkipNet_Learning_Dynamic_ECCV_2018_paper.html)
-	* Presenter: Qiyun 

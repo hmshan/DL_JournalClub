@@ -529,3 +529,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Hanqing [[slides](slides/2020-05-27_Hanqing_Specification.pdf)]
 * [Learning Correspondence from the Cycle-Consistency of Time](https://ajabri.github.io/timecycle/)
 	* Presenter: Qing [[slides](https://www.dropbox.com/s/3o2w4e57vs1vcl8/cvpr19_oral_v11.pptx?dl=0)]
+
+
+## June 3, 2020
+* [Large-Scale Screening of COVID-19 from Community Acquired Pneumonia using Infection Size-Aware Classification](https://arxiv.org/abs/2003.09860)
+	* Presenter: Xiaodong [[slides](slides/2020-06-03_Xiaodong_COVID19.pdf)]
+* [SkipNet: Learning Dynamic Routing in Convolutional Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Xin_Wang_SkipNet_Learning_Dynamic_ECCV_2018_paper.html)
+	* Presenter: Qiyun [[slides](slides/2020-06-03_Qiyun_SkipNet.pdf)]
