@@ -9,9 +9,9 @@
 
 ## June 10, 2020
 * [Adversarial Continual Learning](https://arxiv.org/pdf/2003.09553.pdf)
-	Presenter: Xi
+	* Presenter: Xi
 * [ResNeSt: Split-Attention Networks](https://arxiv.org/pdf/2004.08955)
-	Presenter: Hengtao
+	* Presenter: Hengtao
 
 
 ## June 17, 2020
