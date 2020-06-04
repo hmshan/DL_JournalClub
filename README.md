@@ -45,13 +45,14 @@
 ## July 15, 2020
 * [Adversarial Training and Robustness for Multiple Perturbations](https://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations)
 	* Presenter: Hanqing
-* [Non-Local ConvLSTM for Video Compression Artifact Reduction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Non-Local_ConvLSTM_for_Video_Compression_Artifact_Reduction_ICCV_2019_paper.pdf)
-	* Presenter: Qing
+* [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
+	* Presenter: Jason
 
 
 ## July 22, 2020
-* [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)
-	* Presenter: Yuanyuan
+
+* [Non-Local ConvLSTM for Video Compression Artifact Reduction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Non-Local_ConvLSTM_for_Video_Compression_Artifact_Reduction_ICCV_2019_paper.pdf)
+	* Presenter: Qing
 * [Domain specific cues improve robustness of deep learning based segmentation of CT volumes](https://arxiv.org/abs/1907.10132)
 	* Presenter: Xiaodong
 
@@ -59,7 +60,8 @@
 ## July 29, 2020
 * [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
 	* Presenter: Qiyun
-
+* [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)
+	* Presenter: Yuanyuan
 
 
 
