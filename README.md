@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## June 10, 2020
-* [Adversarial Continual Learning](https://arxiv.org/pdf/2003.09553.pdf)
-	* Presenter: Xi
-* [ResNeSt: Split-Attention Networks](https://arxiv.org/pdf/2004.08955)
-	* Presenter: Hengtao
-
-
 ## June 17, 2020
 * [Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Drop_an_Octave_Reducing_Spatial_Redundancy_in_Convolutional_Neural_Networks_ICCV_2019_paper.pdf)
 	* Presenter: Huidong

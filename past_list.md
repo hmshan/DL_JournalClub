@@ -536,3 +536,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Xiaodong [[slides](slides/2020-06-03_Xiaodong_COVID19.pdf)]
 * [SkipNet: Learning Dynamic Routing in Convolutional Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Xin_Wang_SkipNet_Learning_Dynamic_ECCV_2018_paper.html)
 	* Presenter: Qiyun [[slides](slides/2020-06-03_Qiyun_SkipNet.pdf)]
+
+
+## June 10, 2020
+* [Adversarial Continual Learning](https://arxiv.org/pdf/2003.09553.pdf)
+	* Presenter: Xi [[slides](slides/2020-06-10_Xi_ACL.pdf)]
+* [ResNeSt: Split-Attention Networks](https://arxiv.org/pdf/2004.08955)
+	* Presenter: Hengtao [[slides](slides/2020-06-10_Hengtao_ResNeSt.pdf)]
