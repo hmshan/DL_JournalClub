@@ -48,7 +48,7 @@
 
 ## July 5, 2018
 * [Lose the Views: Limited Angle CT Reconstruction via Implicit Sinogram Completion](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anirudh_Lose_the_Views_CVPR_2018_paper.pdf)
-	* Presenter: Hongming [[slides](slides/2018-07-5_Hongming_CTNet.pdf)]
+	* Presenter: Hongming [[slides](slides/2018-07-05_Hongming_CTNet.pdf)]
 
 ## July 19, 2018
 
@@ -65,7 +65,7 @@
 ## August 2, 2018	
 
 * [Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network](https://ieeexplore.ieee.org/document/8332971/)
-    * Presenter: Qingsong [[slides](slides/2018-08-2_Qingsong_Framelet.pdf)]	
+    * Presenter: Qingsong [[slides](slides/2018-08-02_Qingsong_Framelet.pdf)]	
 * [Deep learning with domain adaptation for accelerated projection‐reconstruction MR](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.27106)
 	* Presenter: Qing
 
@@ -74,7 +74,7 @@
 * [DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing](https://dl.acm.org/citation.cfm?id=3052577)
 	* Presenter: YuanYuan [[slides](slides/2018-08-09_Yuanyuan_Deepsense.pdf)]
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
-	* Presenter: Lars [[slides](slides/2018-08-9-Lars_CycleGAN.pdf)]
+	* Presenter: Lars [[slides](slides/2018-08-09_Lars_CycleGAN.pdf)]
 
 ## August 16, 2018 
 
@@ -101,7 +101,7 @@
 ## October 3, 2018 
 
 * [Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)
-	* Presenter: Lars [[slides](slides/2018-10-3_Lars_EraseFillRain.pdf)]
+	* Presenter: Lars [[slides](slides/2018-10-03_Lars_EraseFillRain.pdf)]
 * [High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs](https://arxiv.org/abs/1711.11585)
 	* Presenter: Qing [[slides](https://tcwang0509.github.io/pix2pixHD/)]
 
@@ -110,7 +110,7 @@
 * [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)
 	* Presenter: Hongming [[slides](slides/2018-10-10_Hongming_BigGAN.pdf)]
 * [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://arxiv.org/abs/1807.03247)
-	* Presenter: Pingkun [[slides](slides/2018-10-10-Pingkun_CoordConv.pdf)]
+	* Presenter: Pingkun [[slides](slides/2018-10-10_Pingkun_CoordConv.pdf)]
 
 ## October 17, 2018 
 
@@ -137,9 +137,9 @@
 ## November 7, 2018 
 
 * [Learning to Segment Every Thing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf)
-	* Presenter: Hongming [[slides](slides/2018-11-7_Hongming_MaskXRCNN.pdf)]
+	* Presenter: Hongming [[slides](slides/2018-11-07_Hongming_MaskXRCNN.pdf)]
 * [Deep Reinforcement Learning with Double Q-Learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847)
-	* Presenter: Qing [[slides](slides/2018-11-7_Qing_DoubleQ.pdf)]
+	* Presenter: Qing [[slides](slides/2018-11-07_Qing_DoubleQ.pdf)]
 
 ## November 14, 2018 
 
