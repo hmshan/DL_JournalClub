@@ -31,7 +31,7 @@
 ## July 1, 2020
 * [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)
 	* Presenter: Jiajin
-* [Learning Representations for Time Series Clustering](https://papers.nips.cc/paper/8634-learning-representations-for-time-series-clustering.pdf)
+* [Learning To Classify Images Without Labels](https://arxiv.org/abs/2005.12320)
 	* Presenter: Chuang
 
 
@@ -66,9 +66,8 @@
 	* Presenter: TBA
 * [Improving the robustness of convolutional networks to appearance variability in biomedical images](https://ieeexplore.ieee.org/document/8363636/)
 	* Presenter: TBA
-
-
-
+* [Learning Representations for Time Series Clustering](https://papers.nips.cc/paper/8634-learning-representations-for-time-series-clustering.pdf)
+	* Presenter: TBA
 
 
 
