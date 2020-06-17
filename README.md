@@ -7,13 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## June 17, 2020
-* [Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Drop_an_Octave_Reducing_Spatial_Redundancy_in_Convolutional_Neural_Networks_ICCV_2019_paper.pdf)
-	* Presenter: Huidong
-* [Federated Adversarial Domain Adaptation](https://arxiv.org/pdf/1911.02054.pdf)
-	* Presenter: Hongming
-
-
 ## June 24, 2020
 * [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/abs/1910.09217)
 	* Presenter: Fatir

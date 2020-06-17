@@ -543,3 +543,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Xi [[slides](slides/2020-06-10_Xi_ACL.pdf)]
 * [ResNeSt: Split-Attention Networks](https://arxiv.org/pdf/2004.08955)
 	* Presenter: Hengtao [[slides](slides/2020-06-10_Hengtao_ResNeSt.pdf)]
+
+
+## June 17, 2020
+* [Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Drop_an_Octave_Reducing_Spatial_Redundancy_in_Convolutional_Neural_Networks_ICCV_2019_paper.pdf)
+	* Presenter: Huidong [[slides](slides/2020-06-17_Huidong_OctConv.pdf)]
+* [Federated Adversarial Domain Adaptation](https://arxiv.org/pdf/1911.02054.pdf)
+	* Presenter: Hongming [[slides](slides/2020-06-17_Hongming_FADA.pdf)]
