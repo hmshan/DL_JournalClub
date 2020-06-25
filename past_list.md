@@ -550,3 +550,11 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Huidong [[slides](slides/2020-06-17_Huidong_OctConv.pdf)]
 * [Federated Adversarial Domain Adaptation](https://arxiv.org/pdf/1911.02054.pdf)
 	* Presenter: Hongming [[slides](slides/2020-06-17_Hongming_FADA.pdf)]
+
+
+
+## June 24, 2020
+* [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/abs/1910.09217)
+	* Presenter: Fatir
+* [Improving Semantic Segmentation via Self-Training](https://arxiv.org/pdf/2004.14960)
+	* Presenter: Chris [[slides](slides/2020-06-24_Chris_Segmentation_SelfTraining.pdf)]

@@ -7,11 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## June 24, 2020
-* [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/abs/1910.09217)
-	* Presenter: Fatir
-* [Improving Semantic Segmentation via Self-Training](https://arxiv.org/pdf/2004.14960)
-	* Presenter: Chris
 
 
 ## July 1, 2020
