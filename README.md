@@ -9,11 +9,7 @@
 
 
 
-## July 1, 2020
-* [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)
-	* Presenter: Jiajin
-* [Learning To Classify Images Without Labels](https://arxiv.org/abs/2005.12320)
-	* Presenter: Chuang
+
 
 
 ## July 8, 2020

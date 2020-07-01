@@ -558,3 +558,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Fatir
 * [Improving Semantic Segmentation via Self-Training](https://arxiv.org/pdf/2004.14960)
 	* Presenter: Chris [[slides](slides/2020-06-24_Chris_Segmentation_SelfTraining.pdf)]
+
+
+## July 1, 2020
+* [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)
+	* Presenter: Jiajin [[slides](slides/2020-07-01_Jiajin_GatedSCNN.pdf)]
+* [Learning To Classify Images Without Labels](https://arxiv.org/abs/2005.12320)
+	* Presenter: Chuang [[slides](slides/2020-07-01_Chuang_SCAN.pdf)]
