@@ -7,16 +7,10 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-
-
-
-
-
 ## July 8, 2020
 * [Evaluating Robustness of Deep Image Super-Resolution Against Adversarial Attacks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Evaluating_Robustness_of_Deep_Image_Super-Resolution_Against_Adversarial_Attacks_ICCV_2019_paper.pdf)
 	* Presenter: Mengzhou
-* [On instabilities of deep learning in image reconstruction and the potential costs of AI](https://www.pnas.org/content/early/2020/05/08/1907377117)
-	* Presenter: Weiwen
+
 
 
 ## July 15, 2020
@@ -36,7 +30,8 @@
 ## July 29, 2020
 * [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)
 	* Presenter: Yuanyuan
-
+* [On instabilities of deep learning in image reconstruction and the potential costs of AI](https://www.pnas.org/content/early/2020/05/08/1907377117)
+	* Presenter: Weiwen
 
 ## TBA
 * [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
