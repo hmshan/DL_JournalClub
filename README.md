@@ -7,9 +7,7 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-## July 8, 2020
-* [Evaluating Robustness of Deep Image Super-Resolution Against Adversarial Attacks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Evaluating_Robustness_of_Deep_Image_Super-Resolution_Against_Adversarial_Attacks_ICCV_2019_paper.pdf)
-	* Presenter: Mengzhou
+
 
 
 
