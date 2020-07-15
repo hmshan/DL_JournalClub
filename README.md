@@ -11,11 +11,7 @@
 
 
 
-## July 15, 2020
-* [Adversarial Training and Robustness for Multiple Perturbations](https://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations)
-	* Presenter: Hanqing
-* [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
-	* Presenter: Jason
+
 
 
 ## July 22, 2020

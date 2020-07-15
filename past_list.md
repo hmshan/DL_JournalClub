@@ -570,3 +570,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## July 8, 2020
 * [Evaluating Robustness of Deep Image Super-Resolution Against Adversarial Attacks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Evaluating_Robustness_of_Deep_Image_Super-Resolution_Against_Adversarial_Attacks_ICCV_2019_paper.pdf)
 	* Presenter: Mengzhou [[slides](slides/2020-07-08_Mengzhou_Robustness.pdf)]
+
+
+## July 15, 2020
+* [Adversarial Training and Robustness for Multiple Perturbations](https://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations)
+	* Presenter: Hanqing [[slides](slides/2020-07-15_Hanqing_MP.pdf)]
+* [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
+	* Presenter: Jason [[slides](slides/2020-07-15_Jason_BN.pdf)]
