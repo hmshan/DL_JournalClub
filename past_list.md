@@ -577,3 +577,9 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Hanqing [[slides](slides/2020-07-15_Hanqing_MP.pdf)]
 * [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
 	* Presenter: Jason [[slides](slides/2020-07-15_Jason_BN.pdf)]
+
+## July 22, 2020
+* [Non-Local ConvLSTM for Video Compression Artifact Reduction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Non-Local_ConvLSTM_for_Video_Compression_Artifact_Reduction_ICCV_2019_paper.pdf)
+	* Presenter: Qing [[slides](slides/2020-07-22_Qing_NLConvLSTM.pdf)]
+* [Domain specific cues improve robustness of deep learning based segmentation of CT volumes](https://arxiv.org/abs/1907.10132)
+	* Presenter: Xiaodong [[slides](slides/2020-07-22_Xiaodong_RobustSeg.pdf)]

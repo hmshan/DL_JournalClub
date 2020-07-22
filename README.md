@@ -8,19 +8,6 @@
 
 
 
-
-
-
-
-
-
-## July 22, 2020
-* [Non-Local ConvLSTM for Video Compression Artifact Reduction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Non-Local_ConvLSTM_for_Video_Compression_Artifact_Reduction_ICCV_2019_paper.pdf)
-	* Presenter: Qing
-* [Domain specific cues improve robustness of deep learning based segmentation of CT volumes](https://arxiv.org/abs/1907.10132)
-	* Presenter: Xiaodong
-
-
 ## July 29, 2020
 * [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)
 	* Presenter: Yuanyuan
