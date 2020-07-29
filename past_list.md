@@ -583,3 +583,9 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Qing [[slides](slides/2020-07-22_Qing_NLConvLSTM.pdf)]
 * [Domain specific cues improve robustness of deep learning based segmentation of CT volumes](https://arxiv.org/abs/1907.10132)
 	* Presenter: Xiaodong [[slides](slides/2020-07-22_Xiaodong_RobustSeg.pdf)]
+
+## July 29, 2020
+* [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)
+	* Presenter: Yuanyuan [[slides](slides/2020-07-29_Yuanyuan_TSGAN.pdf)]
+* [On instabilities of deep learning in image reconstruction and the potential costs of AI](https://www.pnas.org/content/early/2020/05/08/1907377117)
+	* Presenter: Weiwen
