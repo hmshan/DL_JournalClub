@@ -8,11 +8,7 @@
 
 
 
-## August 5, 2020
-* [YOLACT Real-time Instance Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.pdf)
-	* Presenter: Xi 
-* [CNN-generated images are surprisingly easy to spot... for now](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_CNN-Generated_Images_Are_Surprisingly_Easy_to_Spot..._for_Now_CVPR_2020_paper.pdf)
-	* Presenter: Hengtao
+
 
 
 ## August 12, 2020

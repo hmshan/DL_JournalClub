@@ -589,3 +589,9 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Yuanyuan [[slides](slides/2020-07-29_Yuanyuan_TSGAN.pdf)]
 * [On instabilities of deep learning in image reconstruction and the potential costs of AI](https://www.pnas.org/content/early/2020/05/08/1907377117)
 	* Presenter: Weiwen
+
+## August 5, 2020
+* [YOLACT Real-time Instance Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.pdf)
+	* Presenter: Xi [[slides](2020-08-05_Xi_YOLACT.pdf)]
+* [CNN-generated images are surprisingly easy to spot... for now](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_CNN-Generated_Images_Are_Surprisingly_Easy_to_Spot..._for_Now_CVPR_2020_paper.pdf)
+	* Presenter: Hengtao [[slides](slides/2020-08-05_Hengtao_Forensic.pdf)]
