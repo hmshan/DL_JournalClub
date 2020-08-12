@@ -595,3 +595,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Xi [[slides](2020-08-05_Xi_YOLACT.pdf)]
 * [CNN-generated images are surprisingly easy to spot... for now](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_CNN-Generated_Images_Are_Surprisingly_Easy_to_Spot..._for_Now_CVPR_2020_paper.pdf)
 	* Presenter: Hengtao [[slides](slides/2020-08-05_Hengtao_Forensic.pdf)]
+
+
+## August 12, 2020
+* [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf)
+	* Presenter: Hongming [[slides](slides/2020-08-12_Hongming_BigSSM.pdf)]
+* [Contrastive Learning for Unpaired Image-to-Image Translation](https://arxiv.org/pdf/2007.15651.pdf)
+	* Presenter: Huidong [[slides](slides/2020-08-12_Huidong_CUT.pdf)]

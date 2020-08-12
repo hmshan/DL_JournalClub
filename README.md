@@ -11,11 +11,7 @@
 
 
 
-## August 12, 2020
-* [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf)
-	* Presenter: Hongming
-* [Contrastive Learning for Unpaired Image-to-Image Translation](https://arxiv.org/pdf/2007.15651.pdf)
-	* Presenter: Huidong
+
 
 
 
