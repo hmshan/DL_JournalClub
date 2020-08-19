@@ -11,17 +11,20 @@
 
 
 
+## August 26, 2020
+* [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf)
+	* Presenter: Mengzhou
+
+* [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf)
+	* Presenter: Hengtao
 
 
+## September 02, 2020
+* [Towards Evaluating the Robustness of Neural Networks]()
+	* Presenter: Hanqing
 
-
-## TBA
-* [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
-	* Presenter: TBA
-* [Improving the robustness of convolutional networks to appearance variability in biomedical images](https://ieeexplore.ieee.org/document/8363636/)
-	* Presenter: TBA
-* [Learning Representations for Time Series Clustering](https://papers.nips.cc/paper/8634-learning-representations-for-time-series-clustering.pdf)
-	* Presenter: TBA
+* [On the Robustness of Semantic Segmentation Models to Adversarial Attacks]()
+	* Presenter: Xi
 
 
 
