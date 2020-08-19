@@ -27,6 +27,28 @@
 	* Presenter: Xi
 
 
+## September 09, 2020
+* [Visual Chirality]()
+	* Presenter: Nneka
+
+* [Adversarial Discriminative Domain Adaptation]()
+	* Presenter: Nathan
+
+
+## September 16, 2020
+* [Simultaneous deep transfer across domains and tasks]()
+	* Presenter: Diego
+
+* [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization]()
+	* Presenter: Xinrui
+
+## September 23, 2020
+* [Understanding Adversarial Examples from the Mutual Influence of Images and perturbations]()
+	* Presenter: Fatir
+
+* [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization]()
+	* Presenter: Xinrui
+
 
 
 
