@@ -75,7 +75,8 @@
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)
 	* Presenter: Dr. Cong
 
-
+* [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
+	* Presenter: Fenglei
 
 
 
