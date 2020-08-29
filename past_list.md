@@ -602,3 +602,8 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Hongming [[slides](slides/2020-08-12_Hongming_BigSSM.pdf)]
 * [Contrastive Learning for Unpaired Image-to-Image Translation](https://arxiv.org/pdf/2007.15651.pdf)
 	* Presenter: Huidong [[slides](slides/2020-08-12_Huidong_CUT.pdf)]
+
+
+## August 26, 2020
+* [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf)
+	* Presenter: Hengtao
