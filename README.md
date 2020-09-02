@@ -9,11 +9,6 @@
 
 
 
-## September 02, 2020
-
-* [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf)
-	* Presenter: Mengzhou
-
 * [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
 	* Presenter: Hanqing
 
