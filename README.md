@@ -9,9 +9,6 @@
 
 
 
-* [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
-	* Presenter: Hanqing
-
 ## September 16, 2020
 * [On the Robustness of Semantic Segmentation Models to Adversarial Attacks](https://arxiv.org/pdf/1711.09856.pdf)
 	* Presenter: Xi
@@ -71,6 +68,9 @@
 ## December 23, 2020
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)
 	* Presenter: Dr. Cong
+	
+* [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
+	* Presenter: Hanqing
 
 
 
