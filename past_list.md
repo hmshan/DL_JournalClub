@@ -607,3 +607,9 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## August 26, 2020
 * [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf)
 	* Presenter: Hengtao [[slides](slides/2020-08-26_Hengtao_LimitationsGAN.pdf)]
+	
+
+
+## September 02, 2020
+* [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf)
+	* Presenter: Mengzhou
