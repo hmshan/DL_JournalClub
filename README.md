@@ -17,8 +17,7 @@
 * [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
 	* Presenter: Hanqing
 
-
-## September 09, 2020
+## September 16, 2020
 * [On the Robustness of Semantic Segmentation Models to Adversarial Attacks](https://arxiv.org/pdf/1711.09856.pdf)
 	* Presenter: Xi
 	
@@ -26,7 +25,7 @@
 	* Presenter: Nneka
 
 
-## September 16, 2020
+## September 30, 2020
 * [Adversarial Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf)
 	* Presenter: Nathan
 	
@@ -34,7 +33,7 @@
 	* Presenter: Diego
 
 
-## September 23, 2020
+## October 14, 2020
 * [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/pdf/1610.02391.pdf)
 	* Presenter: Xinrui
 	
@@ -42,7 +41,7 @@
 	* Presenter: Fatir
 
 
-## September 30, 2020
+## October 28, 2020
 * [Learning Representations for Time Series Clustering](https://papers.nips.cc/paper/8634-learning-representations-for-time-series-clustering.pdf)
 	* Presenter: Chris
 	
@@ -50,7 +49,7 @@
 	* Presenter: Jiajin
 
 	
-## October 07, 2020
+## November 11, 2020
 * [Modeling Biological Immunity to Adversarial Examples](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modeling_Biological_Immunity_to_Adversarial_Examples_CVPR_2020_paper.pdf)
 	* Presenter: Jason
 
@@ -58,23 +57,23 @@
 	* Presenter: Qing
 
 
-## October 14, 2020
+## November 25, 2020
 * [On the Generalization Benefit of Noise in Stochastic Gradient Descent](https://arxiv.org/pdf/2006.15081.pdf)
 	* Presenter: Xiaodong
 
 * [Adversarial Examples Improve Image Recognition](https://arxiv.org/pdf/1911.09665.pdf)
 	* Presenter: Weiwen
 
-## October 21, 2020
 
+## December 09, 2020
 * [VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/pdf/1908.08530.pdf)
 	* Presenter: Chuang
 
 * [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
 	* Presenter: Fenglei
 
-## October 28, 2020
 
+## December 23, 2020
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)
 	* Presenter: Dr. Cong
 
