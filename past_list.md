@@ -613,3 +613,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## September 02, 2020
 * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf)
 	* Presenter: Mengzhou
+
+## September 16, 2020
+* [On the Robustness of Semantic Segmentation Models to Adversarial Attacks](https://arxiv.org/pdf/1711.09856.pdf)
+	* Presenter: Xi
+	
+* [Visual Chirality](https://arxiv.org/pdf/2006.09512.pdf)
+	* Presenter: Nneka
