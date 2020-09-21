@@ -9,13 +9,6 @@
 
 
 
-## September 16, 2020
-* [On the Robustness of Semantic Segmentation Models to Adversarial Attacks](https://arxiv.org/pdf/1711.09856.pdf)
-	* Presenter: Xi
-	
-* [Visual Chirality](https://arxiv.org/pdf/2006.09512.pdf)
-	* Presenter: Nneka
-
 
 ## September 30, 2020
 * [Adversarial Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf)
