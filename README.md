@@ -7,17 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 
-
-
-
-## September 30, 2020
-* [Adversarial Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf)
-	* Presenter: Nathan
-	
-* [Simultaneous deep transfer across domains and tasks](https://people.eecs.berkeley.edu/~jhoffman/papers/Tzeng_ICCV2015.pdf)
-	* Presenter: Diego
-
-
 ## October 14, 2020
 * [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/pdf/1610.02391.pdf)
 	* Presenter: Xinrui
