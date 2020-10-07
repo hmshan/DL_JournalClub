@@ -623,7 +623,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	
 ## September 30, 2020
 * [Adversarial Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf)
-	* Presenter: Nathan [[slides]()]
+	* Presenter: Nathan [[slides](slides/2020-09-30_Nathan_DomainAdaptation.pdf)]
 	
 * [Simultaneous deep transfer across domains and tasks](https://people.eecs.berkeley.edu/~jhoffman/papers/Tzeng_ICCV2015.pdf)
-	* Presenter: Diego [[slides]()]
+	* Presenter: Diego [[slides](slides/2020-09-30_Diego_TransferAcrossDomains.pdf)]
