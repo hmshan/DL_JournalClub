@@ -620,3 +620,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	
 * [Visual Chirality](https://arxiv.org/pdf/2006.09512.pdf)
 	* Presenter: Nneka [[slides](slides/2020-09-16_Nneka_VisualChiralty.pdf)]
+	
+## September 30, 2020
+* [Adversarial Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf)
+	* Presenter: Nathan [[slides]()]
+	
+* [Simultaneous deep transfer across domains and tasks](https://people.eecs.berkeley.edu/~jhoffman/papers/Tzeng_ICCV2015.pdf)
+	* Presenter: Diego [[slides]()]
