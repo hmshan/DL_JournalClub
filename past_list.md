@@ -627,3 +627,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	
 * [Simultaneous deep transfer across domains and tasks](https://people.eecs.berkeley.edu/~jhoffman/papers/Tzeng_ICCV2015.pdf)
 	* Presenter: Diego [[slides](slides/2020-09-30_Diego_TransferAcrossDomains.pdf)]
+	
+## October 14, 2020
+* [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/pdf/1610.02391.pdf)
+	* Presenter: Xinrui
+	
+* [Understanding Adversarial Examples from the Mutual Influence of Images and perturbations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Understanding_Adversarial_Examples_From_the_Mutual_Influence_of_Images_and_CVPR_2020_paper.pdf)
+	* Presenter: Fatir
