@@ -6,15 +6,6 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-
-
-## October 28, 2020
-* [Learning Representations for Time Series Clustering](https://papers.nips.cc/paper/8634-learning-representations-for-time-series-clustering.pdf)
-	* Presenter: Chris
-	
-* [Robust Learning Through Cross-Task Consistency](https://arxiv.org/pdf/2006.04096.pdf)
-	* Presenter: Jiajin
-
 	
 ## November 11, 2020
 * [Modeling Biological Immunity to Adversarial Examples](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modeling_Biological_Immunity_to_Adversarial_Examples_CVPR_2020_paper.pdf)
