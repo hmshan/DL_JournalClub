@@ -641,3 +641,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	
 * [Robust Learning Through Cross-Task Consistency](https://arxiv.org/pdf/2006.04096.pdf)
 	* Presenter: Jiajin
+	
+## November 11, 2020
+* [Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://arxiv.org/pdf/2002.09611.pdf)
+	* Presenter: Qing
