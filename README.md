@@ -7,20 +7,13 @@
 ## The past journal club list can be found [here](past_list.md)
 
 	
-## November 11, 2020
+## November 25, 2020
+
 * [Modeling Biological Immunity to Adversarial Examples](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modeling_Biological_Immunity_to_Adversarial_Examples_CVPR_2020_paper.pdf)
 	* Presenter: Jason
 
-* [Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://arxiv.org/pdf/2002.09611.pdf)
-	* Presenter: Qing
-
-
-## November 25, 2020
 * [On the Generalization Benefit of Noise in Stochastic Gradient Descent](https://arxiv.org/pdf/2006.15081.pdf)
 	* Presenter: Xiaodong
-
-* [Adversarial Examples Improve Image Recognition](https://arxiv.org/pdf/1911.09665.pdf)
-	* Presenter: Weiwen
 
 
 ## December 09, 2020
@@ -37,6 +30,9 @@
 	
 * [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
 	* Presenter: Hanqing
+
+* [Adversarial Examples Improve Image Recognition](https://arxiv.org/pdf/1911.09665.pdf)
+	* Presenter: Weiwen
 
 
 
