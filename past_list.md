@@ -645,3 +645,12 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## November 11, 2020
 * [Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://arxiv.org/pdf/2002.09611.pdf)
 	* Presenter: Qing
+	
+## November 25, 2020
+
+* [Modeling Biological Immunity to Adversarial Examples](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modeling_Biological_Immunity_to_Adversarial_Examples_CVPR_2020_paper.pdf)
+	* Presenter: Jason
+
+* [Soft Labels for Ordinal Regression](https://openaccess.thecvf.com/content_CVPR_2019/papers/Diaz_Soft_Labels_for_Ordinal_Regression_CVPR_2019_paper.pdf)
+	* Presenter: Xiaodong
+
