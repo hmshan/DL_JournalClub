@@ -660,4 +660,15 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 * [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
 	* Presenter: Fenglei
+	
+## December 23, 2020
+* [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)
+	* Presenter: Dr. Cong
+	
+* [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
+	* Presenter: Hanqing
+
+* [Adversarial Examples Improve Image Recognition](https://arxiv.org/pdf/1911.09665.pdf)
+	* Presenter: Weiwen
+
 
